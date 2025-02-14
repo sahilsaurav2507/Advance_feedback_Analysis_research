@@ -1,0 +1,1501 @@
+Domain,Average Sentiment,Top Keywords (Frequency),Total Responses
+E-commerce,0.09,"{'wishlist': 53, 'service': 21, 'discounts': 94}",61
+Aerospace,0.39,"{'aviation': 67, 'engineering': 85, 'rockets': 29}",146
+Government,0.81,"{'public services': 41, 'laws': 72, 'policy': 81}",160
+Agriculture,0.01,"{'crops': 81, 'weather': 91, 'farming': 37}",195
+Gaming,0.21,"{'gameplay': 36, 'multiplayer': 86, 'esports': 64}",87
+Fashion,0.44,"{'luxury': 32, 'streetwear': 40, 'trends': 52}",63
+Telecommunications,0.81,"{'signal': 75, 'network': 43, '5G': 41}",153
+Technology,0.8,"{'speed': 61, 'hardware': 26, 'bug': 66}",115
+Agriculture,0.44,"{'fertilizers': 76, 'farming': 83, 'livestock': 63}",53
+Entertainment,0.3,"{'video games': 59, 'reviews': 75, 'awards': 51}",140
+Finance,0.65,"{'interest': 50, 'credit': 32, 'budgeting': 43}",45
+Agriculture,0.55,"{'pesticides': 68, 'weather': 39, 'livestock': 90}",53
+Aerospace,0.91,"{'safety': 73, 'space travel': 35, 'rockets': 55}",125
+Food & Beverage,0.11,"{'gourmet': 69, 'ingredients': 32, 'cuisine': 34}",132
+Education,0.54,"{'interface': 66, 'curriculum': 75, 'usability': 39}",183
+Healthcare,0.79,"{'telehealth': 69, 'access': 95, 'patient care': 44}",174
+Entertainment,0.71,"{'video games': 47, 'box office': 83, 'subscriptions': 78}",183
+Real Estate,0.12,"{'housing market': 84, 'construction': 51, 'investment': 91}",154
+Agriculture,0.31,"{'sustainability': 23, 'farming': 27, 'fertilizers': 65}",153
+Aerospace,0.48,"{'rockets': 30, 'fuel efficiency': 83, 'space travel': 34}",103
+Education,0.98,"{'learning': 58, 'usability': 72, 'exams': 76}",112
+Automobile,0.34,"{'repairs': 32, 'performance': 75, 'warranty': 40}",199
+Healthcare,0.16,"{'telehealth': 56, 'diagnosis': 84, 'wait times': 58}",127
+Finance,0.41,"{'insurance': 25, 'budgeting': 64, 'interest': 56}",186
+Healthcare,0.7,"{'access': 61, 'insurance': 54, 'telehealth': 56}",78
+Agriculture,0.96,"{'weather': 100, 'fertilizers': 27, 'soil quality': 30}",78
+Hospitality,0.7,"{'budget': 61, 'reservations': 30, 'restaurants': 77}",55
+Automobile,0.38,"{'performance': 41, 'insurance': 31, 'fuel efficiency': 64}",106
+Education,0.67,"{'learning': 25, 'usability': 74, 'exams': 55}",104
+Real Estate,0.71,"{'rent': 60, 'investment': 37, 'amenities': 64}",148
+Gaming,0.83,"{'mobile': 63, 'multiplayer': 97, 'console': 98}",105
+Finance,0.79,"{'budgeting': 40, 'credit': 52, 'savings': 81}",64
+Finance,0.99,"{'loan': 86, 'investment': 35, 'interest': 39}",147
+Telecommunications,0.47,"{'customer support': 25, 'ISP': 94, 'roaming': 46}",159
+Food & Beverage,0.23,"{'gourmet': 48, 'restaurants': 98, 'cuisine': 62}",197
+Technology,0.41,"{'software': 42, 'performance': 89, 'cloud': 100}",84
+Security,0.64,"{'encryption': 29, 'authentication': 61, 'firewalls': 33}",34
+Real Estate,0.19,"{'amenities': 22, 'investment': 63, 'property tax': 98}",52
+Education,0.89,"{'curriculum': 20, 'assessment': 50, 'teachers': 71}",132
+Telecommunications,0.79,"{'data plans': 45, 'customer support': 41, 'infrastructure': 39}",136
+Retail,0.18,"{'discount': 72, 'stock': 80, 'loyalty programs': 24}",32
+Aerospace,0.27,"{'fuel efficiency': 91, 'defense': 47, 'aviation': 74}",99
+Aerospace,0.01,"{'satellites': 100, 'missions': 39, 'engineering': 91}",177
+Fashion,0.64,"{'luxury': 40, 'seasons': 67, 'retail': 81}",81
+Finance,0.65,"{'budgeting': 87, 'savings': 85, 'taxes': 80}",94
+Agriculture,0.66,"{'crops': 61, 'irrigation': 64, 'fertilizers': 43}",195
+Technology,0.53,"{'hardware': 61, 'cloud': 97, 'performance': 26}",135
+Real Estate,0.21,"{'pricing': 35, 'construction': 58, 'rent': 55}",115
+Food & Beverage,0.42,"{'delivery': 70, 'gourmet': 48, 'sustainability': 36}",96
+Finance,0.52,"{'budgeting': 41, 'loan': 77, 'banking': 33}",127
+Gaming,0.66,"{'mobile': 73, 'gameplay': 52, 'esports': 71}",41
+Security,0.46,"{'authentication': 21, 'encryption': 56, 'data breaches': 26}",164
+Education,0.28,"{'platform': 49, 'interface': 77, 'exams': 35}",100
+Retail,0.62,"{'stock': 98, 'availability': 30, 'returns': 75}",83
+Food & Beverage,0.73,"{'gourmet': 73, 'fast food': 46, 'health': 81}",110
+Entertainment,0.88,"{'music': 29, 'content quality': 23, 'subscriptions': 30}",174
+Gaming,0.52,"{'storyline': 82, 'PC': 85, 'gameplay': 36}",126
+Food & Beverage,0.25,"{'fast food': 67, 'sustainability': 49, 'health': 43}",189
+Aerospace,0.89,"{'space travel': 81, 'defense': 80, 'rockets': 60}",118
+Food & Beverage,0.96,"{'delivery': 29, 'sustainability': 84, 'ingredients': 31}",102
+Education,0.73,"{'assessment': 91, 'curriculum': 99, 'learning': 44}",198
+Gaming,0.16,"{'esports': 77, 'multiplayer': 36, 'VR': 27}",76
+Fashion,0.52,"{'seasons': 66, 'trends': 22, 'luxury': 29}",141
+Healthcare,0.04,"{'wait times': 48, 'access': 45, 'hospital': 40}",107
+Government,0.58,"{'budget': 91, 'taxation': 26, 'security': 83}",165
+Retail,0.92,"{'pricing': 75, 'discount': 46, 'availability': 39}",125
+Government,0.22,"{'policy': 78, 'legislation': 43, 'healthcare reform': 41}",82
+Food & Beverage,0.8,"{'ingredients': 63, 'recipes': 57, 'fast food': 86}",162
+Entertainment,1.0,"{'concerts': 79, 'box office': 84, 'content quality': 74}",116
+Fashion,0.53,"{'brands': 85, 'accessories': 77, 'seasons': 74}",72
+Agriculture,0.69,"{'fertilizers': 40, 'pesticides': 81, 'weather': 92}",116
+Real Estate,0.93,"{'construction': 94, 'location': 50, 'investment': 58}",61
+Aerospace,0.98,"{'fuel efficiency': 97, 'space travel': 36, 'satellites': 71}",82
+E-commerce,0.48,"{'inventory': 91, 'service': 45, 'tracking': 63}",194
+Telecommunications,0.89,"{'coverage': 72, 'billing': 75, '5G': 45}",125
+Hospitality,0.75,"{'service': 46, 'reviews': 99, 'customer experience': 29}",119
+Healthcare,0.46,"{'telehealth': 96, 'challenges': 55, 'insurance': 83}",41
+Retail,0.27,"{'discount': 60, 'sales': 44, 'availability': 63}",31
+Food & Beverage,0.26,"{'organic': 24, 'delivery': 36, 'gourmet': 42}",52
+Security,0.22,"{'authentication': 56, 'encryption': 86, 'surveillance': 63}",77
+Gaming,0.17,"{'storyline': 66, 'multiplayer': 54, 'graphics': 96}",130
+Agriculture,0.71,"{'weather': 30, 'livestock': 42, 'crops': 43}",182
+Real Estate,0.1,"{'amenities': 21, 'mortgage': 97, 'construction': 87}",64
+Security,0.18,"{'malware': 64, 'surveillance': 90, 'authentication': 20}",151
+Gaming,0.54,"{'gameplay': 100, 'VR': 62, 'esports': 50}",32
+Telecommunications,0.59,"{'5G': 25, 'roaming': 84, 'coverage': 89}",195
+Technology,0.78,"{'performance': 65, 'speed': 97, 'cloud': 98}",142
+Hospitality,0.02,"{'service': 84, 'restaurants': 38, 'luxury': 72}",67
+Retail,0.43,"{'availability': 99, 'stock': 90, 'sales': 85}",108
+Retail,0.62,"{'returns': 47, 'offers': 74, 'promotions': 36}",159
+Aerospace,0.31,"{'safety': 62, 'aviation': 32, 'space travel': 37}",129
+Retail,0.76,"{'sales': 45, 'pricing': 90, 'availability': 34}",33
+Fashion,0.02,"{'brands': 26, 'accessories': 37, 'fabric': 63}",38
+Food & Beverage,0.48,"{'organic': 100, 'fast food': 65, 'restaurants': 65}",170
+Education,0.14,"{'students': 75, 'curriculum': 22, 'teachers': 24}",50
+E-commerce,0.03,"{'tracking': 54, 'inventory': 94, 'pricing': 86}",175
+Pharmaceuticals,0.13,"{'side effects': 69, 'FDA': 99, 'biotechnology': 90}",100
+Healthcare,0.69,"{'patient care': 87, 'medications': 78, 'challenges': 47}",94
+Aerospace,0.94,"{'fuel efficiency': 82, 'defense': 74, 'engineering': 47}",30
+Technology,0.34,"{'bug': 27, 'software': 71, 'AI': 100}",120
+Fashion,0.2,"{'brands': 98, 'retail': 39, 'luxury': 66}",122
+Energy,0.3,"{'carbon footprint': 100, 'nuclear': 34, 'sustainability': 41}",122
+Fashion,0.1,"{'luxury': 26, 'runway': 76, 'accessories': 37}",32
+Finance,0.59,"{'insurance': 66, 'loan': 45, 'taxes': 22}",196
+Education,0.08,"{'features': 70, 'learning': 48, 'exams': 64}",122
+Gaming,0.72,"{'graphics': 62, 'multiplayer': 79, 'mobile': 84}",164
+Automobile,0.17,"{'performance': 99, 'design': 50, 'warranty': 78}",87
+Healthcare,0.41,"{'access': 30, 'hospital': 62, 'challenges': 84}",102
+Technology,0.27,"{'performance': 90, 'speed': 92, 'cloud': 93}",46
+Food & Beverage,0.22,"{'sustainability': 53, 'restaurants': 73, 'ingredients': 94}",67
+Hospitality,0.87,"{'restaurants': 72, 'travel': 75, 'tourism': 60}",200
+Healthcare,0.4,"{'treatment': 36, 'telehealth': 26, 'medications': 70}",129
+Entertainment,0.63,"{'movies': 53, 'concerts': 56, 'awards': 58}",51
+Pharmaceuticals,0.45,"{'research': 42, 'drug development': 46, 'healthcare': 51}",153
+Security,0.85,"{'authentication': 95, 'cyberattacks': 52, 'passwords': 98}",144
+Food & Beverage,0.61,"{'sustainability': 76, 'fast food': 21, 'gourmet': 70}",34
+Telecommunications,0.24,"{'network': 78, 'data plans': 57, 'infrastructure': 83}",144
+Automobile,0.76,"{'safety': 24, 'warranty': 84, 'insurance': 32}",68
+Entertainment,0.99,"{'content quality': 86, 'music': 38, 'concerts': 32}",89
+E-commerce,0.67,"{'service': 23, 'delivery': 56, 'discounts': 36}",57
+Fashion,0.32,"{'brands': 31, 'luxury': 51, 'designers': 36}",182
+Gaming,0.01,"{'mobile': 81, 'storyline': 87, 'VR': 78}",185
+Agriculture,0.34,"{'pesticides': 23, 'livestock': 30, 'farming': 67}",104
+Education,0.98,"{'assessment': 88, 'platform': 100, 'students': 86}",184
+Fashion,0.29,"{'designers': 82, 'fabric': 26, 'accessories': 73}",90
+Government,0.15,"{'elections': 45, 'healthcare reform': 95, 'budget': 88}",114
+Gaming,0.86,"{'gameplay': 95, 'updates': 82, 'mobile': 64}",156
+Energy,0.0,"{'nuclear': 74, 'solar': 21, 'sustainability': 25}",130
+Agriculture,0.6,"{'soil quality': 95, 'irrigation': 49, 'sustainability': 48}",185
+Aerospace,0.97,"{'rockets': 62, 'missions': 67, 'space travel': 99}",180
+Aerospace,0.09,"{'NASA': 99, 'fuel efficiency': 28, 'rockets': 64}",111
+Food & Beverage,0.21,"{'gourmet': 84, 'sustainability': 28, 'organic': 99}",101
+Energy,0.2,"{'electricity': 58, 'wind': 72, 'carbon footprint': 37}",147
+Security,0.38,"{'data breaches': 64, 'malware': 76, 'hacking': 63}",128
+Technology,0.05,"{'performance': 51, 'cybersecurity': 60, 'cloud': 55}",158
+Entertainment,0.69,"{'subscriptions': 25, 'content quality': 65, 'streaming': 85}",65
+Hospitality,0.62,"{'luxury': 27, 'customer experience': 75, 'tourism': 24}",55
+Fashion,0.57,"{'designers': 95, 'runway': 83, 'streetwear': 80}",103
+Healthcare,0.66,"{'telehealth': 55, 'diagnosis': 36, 'hospital': 68}",145
+Hospitality,0.18,"{'service': 98, 'restaurants': 27, 'luxury': 40}",124
+Automobile,0.75,"{'fuel efficiency': 73, 'mileage': 20, 'safety': 42}",129
+Agriculture,0.21,"{'irrigation': 71, 'crops': 84, 'weather': 37}",89
+Healthcare,0.74,"{'insurance': 74, 'hospital': 99, 'diagnosis': 100}",173
+E-commerce,0.09,"{'pricing': 89, 'inventory': 26, 'refund': 90}",115
+Education,0.5,"{'features': 98, 'curriculum': 78, 'teachers': 81}",83
+Fashion,0.39,"{'seasons': 100, 'trends': 62, 'designers': 76}",171
+Hospitality,0.53,"{'customer experience': 85, 'reservations': 34, 'restaurants': 46}",115
+Gaming,0.69,"{'multiplayer': 78, 'VR': 43, 'esports': 42}",199
+Hospitality,0.02,"{'tourism': 57, 'travel': 20, 'reservations': 75}",129
+Security,0.61,"{'authentication': 98, 'surveillance': 87, 'passwords': 43}",132
+Education,0.66,"{'students': 26, 'platform': 73, 'interface': 70}",120
+Retail,0.68,"{'discount': 43, 'pricing': 37, 'customer service': 38}",152
+E-commerce,0.18,"{'checkout': 65, 'pricing': 47, 'delivery': 28}",123
+Real Estate,0.1,"{'mortgage': 91, 'housing market': 58, 'construction': 96}",120
+Gaming,0.93,"{'updates': 32, 'storyline': 87, 'graphics': 36}",68
+Healthcare,0.39,"{'medications': 96, 'treatment': 36, 'insurance': 26}",191
+E-commerce,0.44,"{'tracking': 77, 'refund': 87, 'wishlist': 59}",180
+Technology,0.25,"{'speed': 58, 'bug': 27, 'cloud': 22}",151
+E-commerce,0.46,"{'inventory': 30, 'customer support': 52, 'service': 85}",77
+Automobile,0.73,"{'maintenance': 21, 'mileage': 81, 'design': 57}",38
+Pharmaceuticals,0.25,"{'research': 47, 'FDA': 38, 'medications': 89}",121
+Automobile,0.23,"{'design': 37, 'warranty': 36, 'features': 63}",112
+E-commerce,0.33,"{'wishlist': 22, 'pricing': 39, 'service': 26}",116
+Fashion,0.39,"{'trends': 72, 'luxury': 38, 'streetwear': 49}",129
+Automobile,0.97,"{'features': 64, 'warranty': 86, 'fuel efficiency': 40}",56
+Education,0.06,"{'platform': 30, 'teachers': 27, 'learning': 38}",191
+Fashion,0.24,"{'seasons': 26, 'runway': 84, 'brands': 99}",78
+E-commerce,0.85,"{'pricing': 37, 'tracking': 48, 'customer support': 78}",72
+Technology,0.51,"{'hardware': 65, 'AI': 81, 'cybersecurity': 20}",167
+Real Estate,0.93,"{'pricing': 40, 'construction': 88, 'investment': 52}",31
+Entertainment,0.71,"{'content quality': 38, 'movies': 28, 'reviews': 66}",172
+Gaming,0.32,"{'console': 77, 'PC': 50, 'gameplay': 20}",111
+Retail,0.5,"{'pricing': 63, 'loyalty programs': 64, 'returns': 82}",111
+Government,0.87,"{'healthcare reform': 65, 'legislation': 38, 'taxation': 32}",74
+Aerospace,0.68,"{'space travel': 51, 'missions': 64, 'satellites': 43}",42
+Aerospace,0.35,"{'space travel': 94, 'fuel efficiency': 63, 'rockets': 68}",194
+Real Estate,0.73,"{'construction': 31, 'pricing': 56, 'location': 26}",54
+Telecommunications,0.8,"{'5G': 74, 'infrastructure': 34, 'signal': 55}",51
+Fashion,0.09,"{'streetwear': 22, 'fabric': 48, 'runway': 35}",184
+Telecommunications,0.26,"{'ISP': 88, 'signal': 48, 'billing': 67}",171
+Fashion,0.42,"{'brands': 99, 'luxury': 64, 'designers': 45}",183
+Food & Beverage,0.24,"{'cuisine': 72, 'fast food': 76, 'sustainability': 85}",75
+E-commerce,0.89,"{'inventory': 100, 'customer support': 79, 'delivery': 64}",41
+Pharmaceuticals,0.07,"{'side effects': 55, 'healthcare': 64, 'clinical trials': 73}",61
+Technology,0.3,"{'speed': 56, 'AI': 25, 'performance': 38}",143
+Energy,0.7,"{'electricity': 67, 'solar': 78, 'wind': 92}",75
+Real Estate,0.88,"{'housing market': 52, 'amenities': 66, 'mortgage': 73}",96
+Telecommunications,0.08,"{'infrastructure': 85, 'ISP': 95, 'customer support': 24}",47
+Energy,0.13,"{'electricity': 56, 'power grid': 79, 'wind': 79}",61
+Energy,0.17,"{'electricity': 42, 'sustainability': 29, 'power grid': 65}",129
+Retail,0.73,"{'offers': 32, 'sales': 70, 'pricing': 49}",49
+Agriculture,0.95,"{'fertilizers': 65, 'pesticides': 27, 'weather': 41}",135
+Retail,0.33,"{'pricing': 35, 'returns': 92, 'discount': 90}",118
+Hospitality,0.65,"{'reservations': 41, 'hotels': 29, 'tourism': 33}",38
+Technology,0.63,"{'cloud': 26, 'cybersecurity': 50, 'performance': 28}",95
+Agriculture,0.54,"{'weather': 45, 'crops': 56, 'soil quality': 77}",176
+E-commerce,0.38,"{'pricing': 81, 'discounts': 97, 'customer support': 68}",190
+Finance,0.04,"{'loan': 23, 'credit': 75, 'debt': 33}",126
+Government,0.85,"{'regulations': 97, 'budget': 80, 'public services': 76}",200
+Hospitality,0.89,"{'luxury': 51, 'hotels': 55, 'customer experience': 21}",156
+Real Estate,0.38,"{'rent': 89, 'mortgage': 61, 'amenities': 29}",63
+Agriculture,0.7,"{'crops': 94, 'sustainability': 74, 'weather': 86}",184
+Government,0.38,"{'public services': 80, 'laws': 81, 'policy': 97}",155
+Education,0.13,"{'interface': 22, 'learning': 89, 'features': 21}",171
+Real Estate,0.05,"{'property tax': 87, 'availability': 71, 'amenities': 52}",48
+Hospitality,0.91,"{'service': 62, 'reservations': 30, 'reviews': 40}",187
+Energy,0.72,"{'carbon footprint': 55, 'power grid': 67, 'wind': 31}",77
+Agriculture,0.6,"{'livestock': 29, 'fertilizers': 52, 'farming': 33}",30
+Automobile,0.33,"{'design': 82, 'insurance': 26, 'repairs': 43}",68
+Aerospace,0.4,"{'NASA': 51, 'fuel efficiency': 90, 'missions': 79}",64
+Finance,0.22,"{'loan': 93, 'interest': 28, 'insurance': 77}",50
+Hospitality,0.69,"{'hotels': 64, 'customer experience': 38, 'service': 58}",189
+Security,0.06,"{'surveillance': 88, 'encryption': 85, 'hacking': 51}",156
+Gaming,0.39,"{'gameplay': 37, 'multiplayer': 60, 'PC': 24}",174
+Telecommunications,0.93,"{'infrastructure': 36, 'billing': 49, 'signal': 87}",191
+Energy,0.12,"{'nuclear': 57, 'gas': 32, 'carbon footprint': 65}",43
+Technology,0.79,"{'AI': 73, 'update': 86, 'hardware': 33}",107
+Entertainment,0.64,"{'box office': 48, 'subscriptions': 52, 'streaming': 34}",192
+Agriculture,0.31,"{'harvest': 21, 'fertilizers': 64, 'livestock': 63}",118
+E-commerce,0.61,"{'pricing': 78, 'wishlist': 89, 'tracking': 73}",61
+E-commerce,0.6,"{'service': 47, 'inventory': 44, 'tracking': 70}",118
+Government,0.08,"{'public services': 86, 'security': 71, 'healthcare reform': 24}",166
+Security,0.02,"{'passwords': 54, 'malware': 82, 'biometrics': 95}",46
+E-commerce,0.47,"{'wishlist': 41, 'tracking': 95, 'service': 36}",33
+Government,0.25,"{'taxation': 24, 'security': 82, 'regulations': 34}",125
+Automobile,0.33,"{'fuel efficiency': 48, 'mileage': 77, 'features': 34}",166
+Security,0.27,"{'biometrics': 79, 'malware': 98, 'data breaches': 39}",108
+Hospitality,0.32,"{'reviews': 45, 'reservations': 66, 'luxury': 53}",108
+Real Estate,0.39,"{'housing market': 86, 'property tax': 85, 'location': 91}",134
+Aerospace,0.82,"{'engineering': 56, 'rockets': 49, 'space travel': 72}",99
+Automobile,0.1,"{'warranty': 26, 'performance': 32, 'insurance': 52}",147
+Security,0.62,"{'authentication': 90, 'cyberattacks': 48, 'malware': 100}",151
+Aerospace,0.15,"{'safety': 22, 'rockets': 55, 'aviation': 30}",162
+Technology,0.21,"{'performance': 29, 'hardware': 40, 'cloud': 88}",65
+Gaming,0.62,"{'multiplayer': 59, 'VR': 21, 'gameplay': 24}",115
+Healthcare,0.71,"{'medications': 97, 'wait times': 84, 'hospital': 42}",120
+Aerospace,0.46,"{'safety': 45, 'defense': 90, 'aviation': 75}",92
+Gaming,0.18,"{'VR': 57, 'multiplayer': 60, 'PC': 75}",144
+Entertainment,0.2,"{'video games': 26, 'music': 53, 'reviews': 67}",182
+Education,0.61,"{'assessment': 88, 'learning': 43, 'platform': 93}",99
+Education,0.99,"{'platform': 33, 'exams': 76, 'features': 47}",155
+Hospitality,0.04,"{'hotels': 74, 'service': 25, 'travel': 39}",75
+Food & Beverage,0.69,"{'fast food': 37, 'organic': 22, 'health': 92}",140
+Telecommunications,0.55,"{'5G': 61, 'infrastructure': 72, 'customer support': 64}",135
+Finance,0.25,"{'savings': 24, 'investment': 75, 'debt': 97}",98
+Agriculture,0.48,"{'irrigation': 28, 'harvest': 93, 'fertilizers': 85}",31
+Retail,0.25,"{'promotions': 24, 'offers': 28, 'discount': 78}",73
+Telecommunications,0.74,"{'roaming': 67, 'billing': 47, 'customer support': 74}",125
+Government,0.49,"{'healthcare reform': 79, 'security': 55, 'budget': 59}",69
+Education,0.73,"{'usability': 83, 'curriculum': 56, 'platform': 28}",89
+Security,0.87,"{'authentication': 67, 'hacking': 99, 'cyberattacks': 92}",112
+Gaming,0.78,"{'storyline': 98, 'graphics': 28, 'VR': 78}",100
+Telecommunications,0.31,"{'signal': 31, 'customer support': 53, 'billing': 74}",39
+Healthcare,0.76,"{'diagnosis': 35, 'challenges': 21, 'telehealth': 59}",144
+Agriculture,0.47,"{'irrigation': 86, 'weather': 85, 'pesticides': 24}",32
+Hospitality,0.73,"{'travel': 89, 'tourism': 50, 'hotels': 54}",134
+Food & Beverage,0.82,"{'health': 23, 'recipes': 54, 'sustainability': 35}",119
+Hospitality,0.66,"{'tourism': 27, 'reviews': 100, 'luxury': 34}",88
+Agriculture,0.85,"{'farming': 83, 'livestock': 95, 'soil quality': 70}",60
+Automobile,0.67,"{'performance': 83, 'warranty': 84, 'maintenance': 51}",124
+Aerospace,0.92,"{'defense': 90, 'missions': 51, 'space travel': 40}",181
+Agriculture,0.47,"{'harvest': 84, 'soil quality': 76, 'fertilizers': 30}",104
+Healthcare,0.61,"{'patient care': 51, 'challenges': 54, 'wait times': 94}",99
+Security,0.71,"{'surveillance': 37, 'cyberattacks': 65, 'data breaches': 33}",139
+Energy,0.49,"{'gas': 46, 'nuclear': 52, 'oil': 59}",154
+Government,0.05,"{'public services': 93, 'taxation': 90, 'legislation': 68}",118
+Gaming,0.32,"{'PC': 58, 'graphics': 63, 'mobile': 94}",53
+Gaming,0.47,"{'storyline': 97, 'VR': 75, 'mobile': 38}",74
+Agriculture,0.16,"{'fertilizers': 65, 'soil quality': 42, 'sustainability': 78}",46
+Entertainment,0.66,"{'reviews': 88, 'content quality': 82, 'box office': 52}",34
+Food & Beverage,0.83,"{'health': 97, 'organic': 65, 'recipes': 73}",44
+Security,0.46,"{'firewalls': 96, 'passwords': 25, 'authentication': 24}",36
+Aerospace,0.44,"{'defense': 91, 'NASA': 75, 'space travel': 24}",126
+Retail,0.3,"{'promotions': 36, 'offers': 72, 'loyalty programs': 80}",97
+Energy,0.23,"{'sustainability': 38, 'renewable': 81, 'gas': 25}",190
+Finance,0.24,"{'banking': 61, 'credit': 42, 'debt': 62}",33
+Telecommunications,0.36,"{'infrastructure': 56, '5G': 35, 'data plans': 25}",155
+Energy,0.35,"{'gas': 21, 'wind': 87, 'sustainability': 49}",179
+Government,0.16,"{'taxation': 56, 'security': 30, 'elections': 91}",44
+Telecommunications,0.9,"{'ISP': 45, 'billing': 37, 'roaming': 95}",173
+Real Estate,0.09,"{'location': 58, 'construction': 53, 'mortgage': 44}",44
+Retail,0.94,"{'promotions': 29, 'pricing': 77, 'availability': 36}",153
+Pharmaceuticals,0.22,"{'clinical trials': 23, 'healthcare': 37, 'side effects': 28}",43
+Food & Beverage,0.14,"{'organic': 70, 'cuisine': 26, 'recipes': 86}",146
+Hospitality,0.99,"{'budget': 53, 'restaurants': 32, 'tourism': 85}",106
+Fashion,0.58,"{'seasons': 67, 'designers': 25, 'retail': 94}",90
+Healthcare,0.21,"{'challenges': 26, 'medications': 69, 'insurance': 64}",66
+Pharmaceuticals,0.43,"{'research': 71, 'medications': 41, 'prescriptions': 100}",42
+Pharmaceuticals,0.92,"{'drug development': 66, 'research': 94, 'biotechnology': 51}",151
+Aerospace,0.12,"{'aviation': 73, 'rockets': 23, 'defense': 55}",173
+E-commerce,0.15,"{'wishlist': 44, 'customer support': 62, 'refund': 62}",188
+Pharmaceuticals,0.96,"{'biotechnology': 91, 'research': 52, 'side effects': 47}",189
+Retail,0.29,"{'stock': 98, 'discount': 51, 'returns': 42}",191
+Entertainment,0.3,"{'music': 35, 'content quality': 73, 'subscriptions': 54}",190
+Aerospace,0.89,"{'satellites': 32, 'space travel': 97, 'engineering': 22}",43
+Automobile,0.54,"{'design': 23, 'mileage': 55, 'performance': 23}",163
+Security,0.53,"{'passwords': 59, 'hacking': 63, 'encryption': 20}",66
+Telecommunications,0.07,"{'signal': 73, '5G': 78, 'billing': 81}",154
+E-commerce,0.84,"{'customer support': 86, 'checkout': 58, 'delivery': 73}",117
+Security,0.66,"{'passwords': 46, 'hacking': 64, 'biometrics': 60}",187
+Energy,0.62,"{'renewable': 87, 'power grid': 52, 'solar': 86}",137
+Finance,0.65,"{'budgeting': 60, 'debt': 98, 'banking': 93}",95
+Aerospace,0.53,"{'defense': 38, 'rockets': 78, 'safety': 28}",105
+Hospitality,0.75,"{'reviews': 73, 'reservations': 70, 'service': 80}",56
+Education,0.76,"{'exams': 77, 'learning': 31, 'usability': 65}",153
+Agriculture,0.21,"{'pesticides': 21, 'sustainability': 100, 'irrigation': 62}",110
+Telecommunications,0.75,"{'ISP': 42, 'roaming': 66, 'customer support': 54}",81
+Gaming,0.84,"{'updates': 42, 'mobile': 72, 'console': 58}",102
+Retail,0.6,"{'availability': 43, 'returns': 49, 'offers': 38}",73
+Telecommunications,0.82,"{'customer support': 33, 'coverage': 83, 'data plans': 81}",66
+E-commerce,0.12,"{'refund': 46, 'customer support': 54, 'service': 32}",188
+Hospitality,0.71,"{'service': 27, 'hotels': 61, 'travel': 28}",102
+Finance,0.49,"{'credit': 68, 'interest': 80, 'taxes': 68}",200
+Telecommunications,0.39,"{'billing': 43, 'data plans': 37, 'roaming': 67}",84
+Security,0.98,"{'biometrics': 32, 'cyberattacks': 43, 'hacking': 33}",109
+Pharmaceuticals,0.88,"{'biotechnology': 92, 'medications': 68, 'prescriptions': 93}",141
+Technology,0.04,"{'hardware': 93, 'performance': 89, 'AI': 59}",149
+Finance,0.58,"{'banking': 92, 'savings': 82, 'interest': 20}",102
+E-commerce,0.59,"{'checkout': 94, 'pricing': 99, 'tracking': 82}",177
+E-commerce,0.18,"{'tracking': 90, 'checkout': 93, 'discounts': 75}",140
+Automobile,0.51,"{'warranty': 63, 'safety': 93, 'insurance': 83}",155
+Technology,0.98,"{'performance': 98, 'update': 63, 'hardware': 56}",193
+Entertainment,0.61,"{'streaming': 47, 'concerts': 82, 'video games': 71}",33
+Education,0.39,"{'curriculum': 88, 'platform': 90, 'usability': 37}",63
+Education,0.36,"{'exams': 48, 'interface': 74, 'students': 99}",110
+Aerospace,0.51,"{'safety': 88, 'missions': 35, 'satellites': 52}",110
+Pharmaceuticals,0.79,"{'medications': 84, 'healthcare': 72, 'side effects': 20}",109
+Healthcare,0.6,"{'treatment': 82, 'diagnosis': 82, 'challenges': 34}",135
+Automobile,0.65,"{'warranty': 57, 'fuel efficiency': 54, 'design': 76}",172
+Retail,0.84,"{'availability': 74, 'promotions': 76, 'pricing': 63}",49
+Finance,0.57,"{'banking': 24, 'taxes': 66, 'loan': 89}",66
+Entertainment,0.23,"{'music': 32, 'streaming': 37, 'awards': 31}",136
+Entertainment,0.64,"{'concerts': 91, 'box office': 31, 'video games': 31}",68
+Hospitality,0.21,"{'hotels': 95, 'customer experience': 54, 'budget': 56}",84
+Telecommunications,0.93,"{'network': 37, 'customer support': 34, '5G': 39}",182
+Real Estate,0.06,"{'mortgage': 63, 'location': 29, 'construction': 30}",128
+Agriculture,0.33,"{'harvest': 90, 'sustainability': 27, 'farming': 37}",126
+Technology,0.64,"{'software': 66, 'design': 47, 'cloud': 31}",199
+Healthcare,0.54,"{'wait times': 87, 'diagnosis': 91, 'access': 53}",31
+Fashion,0.8,"{'luxury': 41, 'accessories': 87, 'retail': 22}",143
+Government,0.94,"{'regulations': 65, 'legislation': 33, 'budget': 50}",173
+Healthcare,0.5,"{'challenges': 93, 'telehealth': 43, 'hospital': 55}",116
+Fashion,0.7,"{'designers': 55, 'fabric': 74, 'accessories': 81}",199
+Energy,0.78,"{'nuclear': 39, 'oil': 29, 'carbon footprint': 75}",32
+Hospitality,0.69,"{'reviews': 83, 'luxury': 30, 'customer experience': 75}",148
+Real Estate,0.1,"{'pricing': 50, 'rent': 58, 'construction': 95}",114
+Technology,0.59,"{'AI': 61, 'bug': 42, 'update': 93}",73
+Aerospace,0.88,"{'defense': 67, 'NASA': 75, 'aviation': 94}",55
+Technology,0.23,"{'speed': 87, 'cybersecurity': 38, 'cloud': 34}",106
+Healthcare,0.67,"{'patient care': 69, 'wait times': 81, 'insurance': 99}",42
+Telecommunications,0.96,"{'network': 43, 'ISP': 74, '5G': 98}",145
+Automobile,0.12,"{'insurance': 36, 'repairs': 37, 'features': 51}",189
+Technology,0.29,"{'cybersecurity': 82, 'design': 82, 'performance': 88}",195
+Hospitality,0.24,"{'budget': 46, 'restaurants': 30, 'reservations': 94}",62
+Automobile,0.08,"{'insurance': 32, 'safety': 93, 'maintenance': 76}",76
+Telecommunications,0.97,"{'network': 70, '5G': 47, 'ISP': 30}",142
+Pharmaceuticals,0.55,"{'biotechnology': 36, 'drug development': 86, 'side effects': 52}",50
+Agriculture,0.86,"{'pesticides': 72, 'harvest': 98, 'soil quality': 45}",90
+Retail,0.56,"{'pricing': 47, 'loyalty programs': 65, 'offers': 36}",111
+Telecommunications,0.63,"{'network': 88, '5G': 74, 'customer support': 21}",196
+Agriculture,0.17,"{'fertilizers': 27, 'sustainability': 41, 'weather': 55}",122
+Real Estate,0.54,"{'rent': 70, 'location': 85, 'availability': 51}",103
+Telecommunications,0.62,"{'signal': 84, 'customer support': 20, 'infrastructure': 32}",200
+Agriculture,0.5,"{'sustainability': 23, 'weather': 47, 'fertilizers': 66}",183
+Aerospace,0.76,"{'safety': 43, 'aviation': 82, 'missions': 72}",129
+Gaming,0.99,"{'updates': 29, 'PC': 48, 'gameplay': 85}",30
+Security,0.16,"{'biometrics': 88, 'firewalls': 36, 'passwords': 29}",37
+Hospitality,0.92,"{'travel': 98, 'customer experience': 28, 'service': 32}",143
+Healthcare,0.78,"{'hospital': 58, 'treatment': 66, 'access': 32}",78
+Pharmaceuticals,0.97,"{'vaccines': 25, 'prescriptions': 30, 'healthcare': 88}",63
+Security,0.61,"{'firewalls': 31, 'cyberattacks': 79, 'malware': 25}",175
+Aerospace,0.08,"{'missions': 67, 'aviation': 22, 'NASA': 20}",150
+Energy,0.3,"{'wind': 52, 'nuclear': 98, 'gas': 52}",55
+Gaming,0.92,"{'console': 93, 'esports': 24, 'PC': 91}",37
+Healthcare,0.77,"{'treatment': 78, 'medications': 68, 'telehealth': 34}",61
+Finance,0.23,"{'insurance': 49, 'credit': 98, 'banking': 36}",44
+Entertainment,0.18,"{'streaming': 64, 'content quality': 30, 'subscriptions': 69}",129
+Healthcare,0.26,"{'wait times': 31, 'diagnosis': 39, 'challenges': 94}",45
+Entertainment,0.55,"{'streaming': 83, 'reviews': 59, 'movies': 76}",135
+Fashion,0.87,"{'trends': 52, 'designers': 24, 'brands': 37}",37
+Automobile,0.35,"{'features': 42, 'fuel efficiency': 90, 'safety': 98}",188
+Automobile,0.19,"{'repairs': 29, 'features': 29, 'performance': 97}",76
+Technology,0.59,"{'bug': 26, 'AI': 71, 'cybersecurity': 57}",121
+Retail,0.67,"{'stock': 97, 'availability': 45, 'returns': 98}",149
+Pharmaceuticals,0.95,"{'research': 94, 'prescriptions': 93, 'clinical trials': 80}",187
+Security,0.05,"{'hacking': 94, 'firewalls': 88, 'biometrics': 36}",146
+Entertainment,0.13,"{'music': 87, 'box office': 80, 'content quality': 99}",106
+Finance,0.06,"{'budgeting': 27, 'investment': 80, 'taxes': 95}",195
+Finance,0.24,"{'loan': 92, 'savings': 80, 'banking': 45}",110
+Government,0.67,"{'legislation': 51, 'public services': 66, 'taxation': 20}",147
+Pharmaceuticals,0.57,"{'vaccines': 83, 'healthcare': 42, 'biotechnology': 81}",117
+Fashion,0.88,"{'runway': 88, 'retail': 38, 'luxury': 100}",133
+Healthcare,0.62,"{'challenges': 44, 'treatment': 68, 'diagnosis': 94}",47
+Telecommunications,0.35,"{'network': 41, 'data plans': 29, '5G': 58}",159
+Retail,0.93,"{'promotions': 28, 'discount': 40, 'pricing': 75}",151
+Security,0.47,"{'authentication': 84, 'biometrics': 58, 'surveillance': 52}",140
+Government,0.26,"{'taxation': 45, 'elections': 34, 'policy': 83}",34
+Entertainment,0.67,"{'subscriptions': 53, 'reviews': 58, 'video games': 69}",58
+Technology,0.27,"{'performance': 54, 'AI': 88, 'design': 46}",56
+Gaming,0.26,"{'storyline': 93, 'console': 85, 'PC': 62}",59
+E-commerce,0.96,"{'refund': 20, 'pricing': 55, 'inventory': 30}",138
+Real Estate,0.91,"{'rent': 97, 'availability': 37, 'amenities': 59}",104
+Automobile,0.34,"{'performance': 79, 'mileage': 57, 'fuel efficiency': 57}",178
+Telecommunications,0.0,"{'5G': 79, 'coverage': 86, 'roaming': 28}",84
+Aerospace,0.92,"{'NASA': 90, 'missions': 56, 'satellites': 43}",107
+Finance,0.88,"{'debt': 72, 'budgeting': 63, 'insurance': 55}",120
+Finance,0.13,"{'debt': 42, 'loan': 45, 'credit': 55}",112
+Real Estate,0.08,"{'rent': 27, 'pricing': 85, 'mortgage': 66}",66
+Government,0.23,"{'taxation': 55, 'legislation': 77, 'budget': 95}",193
+Food & Beverage,0.04,"{'recipes': 26, 'health': 99, 'delivery': 56}",30
+Education,0.43,"{'teachers': 96, 'interface': 85, 'students': 66}",196
+Government,0.13,"{'regulations': 40, 'elections': 26, 'legislation': 51}",46
+Technology,0.44,"{'cybersecurity': 31, 'hardware': 33, 'design': 93}",155
+Entertainment,0.55,"{'reviews': 36, 'video games': 77, 'subscriptions': 47}",138
+Aerospace,0.9,"{'aviation': 84, 'defense': 92, 'rockets': 97}",114
+Finance,0.29,"{'loan': 30, 'investment': 71, 'credit': 30}",176
+Security,0.73,"{'malware': 96, 'biometrics': 100, 'authentication': 28}",194
+Education,0.82,"{'features': 77, 'learning': 24, 'assessment': 65}",183
+Automobile,0.4,"{'insurance': 65, 'fuel efficiency': 94, 'features': 89}",56
+Gaming,0.15,"{'mobile': 27, 'VR': 99, 'console': 38}",148
+Fashion,0.73,"{'accessories': 36, 'trends': 25, 'seasons': 90}",105
+E-commerce,0.97,"{'inventory': 49, 'pricing': 36, 'discounts': 85}",33
+Healthcare,0.12,"{'diagnosis': 35, 'challenges': 66, 'telehealth': 53}",150
+E-commerce,0.48,"{'customer support': 57, 'refund': 50, 'checkout': 94}",88
+Telecommunications,0.45,"{'ISP': 79, 'data plans': 27, '5G': 32}",155
+Pharmaceuticals,0.88,"{'medications': 40, 'prescriptions': 53, 'research': 92}",136
+Security,0.54,"{'hacking': 64, 'cyberattacks': 41, 'firewalls': 57}",50
+Aerospace,0.43,"{'fuel efficiency': 78, 'aviation': 47, 'rockets': 22}",48
+Entertainment,0.99,"{'music': 93, 'movies': 63, 'concerts': 38}",179
+Food & Beverage,0.59,"{'cuisine': 91, 'restaurants': 28, 'delivery': 96}",191
+Aerospace,0.27,"{'rockets': 78, 'space travel': 29, 'satellites': 41}",119
+Technology,0.71,"{'AI': 68, 'design': 46, 'speed': 33}",50
+Education,0.74,"{'students': 97, 'curriculum': 30, 'features': 41}",31
+Finance,0.57,"{'credit': 22, 'insurance': 45, 'debt': 60}",99
+Government,0.32,"{'taxation': 73, 'regulations': 21, 'laws': 85}",124
+Healthcare,0.28,"{'challenges': 48, 'insurance': 21, 'hospital': 72}",174
+Food & Beverage,0.04,"{'organic': 33, 'restaurants': 79, 'delivery': 88}",123
+Telecommunications,0.55,"{'network': 44, 'data plans': 100, 'signal': 63}",74
+Real Estate,0.87,"{'availability': 53, 'rent': 25, 'location': 45}",95
+Security,0.43,"{'biometrics': 73, 'passwords': 52, 'hacking': 29}",157
+Technology,0.69,"{'AI': 51, 'design': 96, 'software': 71}",45
+Fashion,0.17,"{'fabric': 83, 'trends': 25, 'designers': 81}",35
+Fashion,0.6,"{'seasons': 42, 'fabric': 86, 'brands': 79}",101
+Food & Beverage,0.16,"{'health': 28, 'organic': 91, 'delivery': 49}",182
+Real Estate,0.96,"{'construction': 93, 'property tax': 34, 'housing market': 56}",142
+Education,0.79,"{'usability': 98, 'teachers': 88, 'learning': 21}",140
+Government,0.11,"{'policy': 91, 'public services': 75, 'budget': 37}",62
+Pharmaceuticals,0.14,"{'prescriptions': 71, 'clinical trials': 35, 'healthcare': 22}",43
+Gaming,0.89,"{'VR': 61, 'mobile': 76, 'updates': 37}",184
+Technology,0.41,"{'software': 33, 'cybersecurity': 34, 'hardware': 45}",154
+Fashion,0.46,"{'streetwear': 60, 'luxury': 82, 'seasons': 57}",127
+Retail,0.83,"{'loyalty programs': 25, 'customer service': 53, 'pricing': 71}",142
+Retail,0.71,"{'sales': 55, 'customer service': 29, 'loyalty programs': 40}",83
+Real Estate,0.04,"{'mortgage': 94, 'housing market': 98, 'investment': 76}",106
+E-commerce,0.4,"{'refund': 28, 'pricing': 34, 'service': 22}",33
+Telecommunications,0.54,"{'coverage': 37, 'network': 76, 'signal': 28}",114
+Agriculture,0.16,"{'pesticides': 34, 'soil quality': 89, 'irrigation': 72}",70
+Aerospace,0.29,"{'space travel': 55, 'aviation': 42, 'satellites': 78}",122
+Finance,0.0,"{'budgeting': 90, 'credit': 25, 'taxes': 95}",126
+Pharmaceuticals,0.24,"{'prescriptions': 73, 'drug development': 38, 'medications': 43}",150
+Telecommunications,0.98,"{'ISP': 46, 'coverage': 66, 'infrastructure': 74}",76
+Aerospace,0.49,"{'rockets': 64, 'satellites': 35, 'missions': 25}",187
+Finance,0.95,"{'loan': 64, 'credit': 91, 'taxes': 86}",169
+Telecommunications,0.13,"{'coverage': 81, 'network': 100, 'customer support': 100}",53
+Food & Beverage,0.44,"{'organic': 21, 'health': 82, 'cuisine': 29}",43
+Pharmaceuticals,0.28,"{'clinical trials': 76, 'biotechnology': 35, 'side effects': 93}",153
+Agriculture,0.73,"{'livestock': 60, 'weather': 73, 'farming': 99}",38
+Energy,0.5,"{'solar': 72, 'renewable': 83, 'gas': 83}",52
+Security,0.03,"{'passwords': 21, 'authentication': 83, 'encryption': 33}",168
+Government,0.63,"{'public services': 50, 'elections': 54, 'legislation': 30}",82
+Technology,0.64,"{'AI': 62, 'bug': 52, 'cybersecurity': 79}",72
+Food & Beverage,0.37,"{'fast food': 73, 'delivery': 82, 'ingredients': 20}",91
+Healthcare,0.42,"{'medications': 35, 'insurance': 30, 'challenges': 51}",66
+E-commerce,0.62,"{'checkout': 96, 'tracking': 29, 'service': 95}",83
+Government,0.09,"{'laws': 65, 'taxation': 37, 'regulations': 44}",177
+Security,0.33,"{'biometrics': 96, 'hacking': 75, 'passwords': 56}",183
+Pharmaceuticals,0.87,"{'medications': 48, 'side effects': 59, 'drug development': 32}",65
+Food & Beverage,0.71,"{'gourmet': 29, 'sustainability': 37, 'delivery': 67}",102
+Government,0.72,"{'regulations': 54, 'healthcare reform': 61, 'budget': 54}",86
+Telecommunications,0.64,"{'signal': 74, 'infrastructure': 55, 'ISP': 74}",197
+Telecommunications,0.75,"{'data plans': 61, 'customer support': 41, 'coverage': 22}",175
+Retail,0.54,"{'returns': 24, 'pricing': 38, 'sales': 70}",173
+Education,0.76,"{'usability': 31, 'assessment': 20, 'learning': 60}",131
+E-commerce,0.96,"{'service': 43, 'customer support': 99, 'delivery': 90}",94
+Real Estate,0.23,"{'pricing': 63, 'amenities': 47, 'availability': 29}",49
+Automobile,0.51,"{'performance': 88, 'design': 66, 'insurance': 36}",96
+Technology,0.17,"{'software': 98, 'design': 69, 'cybersecurity': 100}",30
+Real Estate,0.44,"{'construction': 100, 'mortgage': 25, 'pricing': 24}",155
+Technology,0.95,"{'update': 60, 'cybersecurity': 63, 'performance': 32}",177
+Finance,0.61,"{'interest': 75, 'insurance': 20, 'credit': 69}",66
+Education,0.88,"{'learning': 40, 'interface': 59, 'platform': 73}",44
+Pharmaceuticals,0.79,"{'biotechnology': 83, 'medications': 95, 'drug development': 43}",197
+Hospitality,0.81,"{'service': 85, 'hotels': 28, 'restaurants': 68}",78
+Healthcare,0.09,"{'challenges': 100, 'treatment': 33, 'access': 27}",51
+Hospitality,0.04,"{'hotels': 77, 'customer experience': 82, 'luxury': 48}",82
+Security,0.36,"{'passwords': 62, 'authentication': 50, 'data breaches': 25}",105
+Agriculture,0.34,"{'sustainability': 78, 'farming': 29, 'weather': 35}",35
+Real Estate,0.13,"{'property tax': 56, 'investment': 37, 'mortgage': 29}",91
+Energy,0.97,"{'sustainability': 35, 'nuclear': 40, 'renewable': 29}",103
+Security,0.66,"{'hacking': 59, 'encryption': 72, 'authentication': 33}",165
+Energy,0.55,"{'wind': 38, 'gas': 35, 'nuclear': 62}",96
+Pharmaceuticals,0.63,"{'clinical trials': 65, 'FDA': 35, 'prescriptions': 82}",60
+Retail,0.03,"{'customer service': 49, 'promotions': 80, 'pricing': 92}",134
+Real Estate,0.4,"{'availability': 68, 'mortgage': 85, 'rent': 44}",98
+Government,0.96,"{'elections': 88, 'taxation': 39, 'security': 42}",93
+Entertainment,0.36,"{'movies': 78, 'subscriptions': 68, 'box office': 94}",106
+Security,0.81,"{'authentication': 73, 'surveillance': 53, 'hacking': 74}",38
+Agriculture,0.19,"{'irrigation': 59, 'fertilizers': 63, 'weather': 42}",53
+Education,0.41,"{'features': 69, 'interface': 57, 'usability': 28}",45
+Education,0.97,"{'learning': 81, 'teachers': 55, 'exams': 32}",152
+Entertainment,0.2,"{'subscriptions': 76, 'awards': 76, 'video games': 23}",58
+Real Estate,0.6,"{'housing market': 25, 'construction': 44, 'investment': 45}",125
+E-commerce,0.93,"{'discounts': 47, 'delivery': 64, 'tracking': 35}",117
+Aerospace,0.97,"{'space travel': 37, 'satellites': 70, 'safety': 99}",93
+Healthcare,0.33,"{'patient care': 32, 'telehealth': 28, 'insurance': 37}",51
+Finance,0.29,"{'interest': 49, 'insurance': 35, 'loan': 31}",73
+Entertainment,0.38,"{'concerts': 73, 'content quality': 83, 'streaming': 20}",55
+Government,0.21,"{'taxation': 78, 'elections': 64, 'healthcare reform': 50}",171
+Pharmaceuticals,0.66,"{'FDA': 53, 'clinical trials': 33, 'biotechnology': 99}",37
+Fashion,0.25,"{'designers': 71, 'retail': 49, 'fabric': 79}",63
+Finance,0.8,"{'credit': 81, 'debt': 69, 'savings': 68}",140
+Healthcare,0.81,"{'telehealth': 65, 'access': 84, 'wait times': 78}",88
+Fashion,0.29,"{'retail': 68, 'luxury': 39, 'runway': 92}",31
+Automobile,0.18,"{'fuel efficiency': 80, 'safety': 72, 'design': 72}",167
+Healthcare,0.82,"{'patient care': 42, 'treatment': 45, 'wait times': 60}",105
+Security,0.49,"{'firewalls': 36, 'data breaches': 95, 'biometrics': 93}",100
+Hospitality,0.42,"{'budget': 54, 'reservations': 93, 'restaurants': 31}",105
+Telecommunications,0.83,"{'5G': 28, 'customer support': 68, 'ISP': 63}",191
+Food & Beverage,0.2,"{'ingredients': 31, 'organic': 39, 'fast food': 42}",60
+Entertainment,0.83,"{'concerts': 60, 'awards': 77, 'reviews': 66}",32
+Food & Beverage,0.7,"{'gourmet': 31, 'sustainability': 99, 'delivery': 53}",85
+Automobile,0.65,"{'mileage': 45, 'safety': 87, 'design': 60}",85
+Hospitality,0.13,"{'reviews': 36, 'hotels': 60, 'reservations': 29}",78
+Automobile,0.18,"{'design': 33, 'safety': 32, 'features': 58}",150
+Healthcare,0.82,"{'challenges': 55, 'wait times': 81, 'patient care': 95}",37
+Fashion,0.14,"{'runway': 79, 'seasons': 25, 'streetwear': 80}",94
+Food & Beverage,0.97,"{'ingredients': 53, 'delivery': 47, 'sustainability': 96}",103
+Pharmaceuticals,0.39,"{'FDA': 61, 'medications': 46, 'prescriptions': 79}",133
+Technology,0.93,"{'cybersecurity': 79, 'performance': 21, 'cloud': 37}",178
+Automobile,0.35,"{'mileage': 86, 'maintenance': 40, 'fuel efficiency': 90}",193
+Entertainment,0.67,"{'awards': 25, 'video games': 61, 'movies': 73}",107
+Education,0.63,"{'assessment': 38, 'interface': 53, 'learning': 62}",76
+Hospitality,0.98,"{'budget': 30, 'tourism': 71, 'reservations': 93}",187
+Education,0.94,"{'exams': 56, 'teachers': 58, 'interface': 72}",158
+Agriculture,0.28,"{'fertilizers': 78, 'soil quality': 45, 'weather': 28}",68
+Hospitality,0.82,"{'hotels': 65, 'service': 76, 'budget': 93}",181
+Entertainment,0.67,"{'concerts': 92, 'reviews': 90, 'music': 38}",85
+Hospitality,0.24,"{'reviews': 87, 'hotels': 31, 'reservations': 31}",58
+Education,0.52,"{'features': 26, 'students': 30, 'assessment': 69}",93
+Food & Beverage,0.8,"{'recipes': 41, 'health': 69, 'cuisine': 81}",79
+Technology,0.39,"{'software': 97, 'design': 47, 'hardware': 20}",65
+Real Estate,0.55,"{'amenities': 93, 'rent': 34, 'investment': 46}",155
+Gaming,0.71,"{'graphics': 23, 'gameplay': 92, 'storyline': 36}",171
+Retail,0.8,"{'availability': 97, 'offers': 52, 'stock': 48}",137
+Telecommunications,0.16,"{'network': 24, 'customer support': 77, '5G': 29}",113
+Pharmaceuticals,0.76,"{'biotechnology': 26, 'research': 21, 'vaccines': 50}",138
+Telecommunications,0.17,"{'5G': 51, 'billing': 66, 'data plans': 84}",149
+Technology,0.1,"{'software': 97, 'speed': 64, 'cybersecurity': 92}",199
+Education,0.96,"{'learning': 83, 'students': 45, 'curriculum': 21}",171
+Technology,0.94,"{'bug': 79, 'cybersecurity': 43, 'speed': 48}",66
+Finance,0.43,"{'insurance': 94, 'taxes': 86, 'interest': 65}",130
+E-commerce,0.51,"{'refund': 83, 'checkout': 39, 'wishlist': 97}",89
+Security,0.42,"{'hacking': 42, 'malware': 99, 'passwords': 91}",130
+Aerospace,0.88,"{'engineering': 82, 'aviation': 63, 'defense': 25}",37
+E-commerce,0.17,"{'discounts': 22, 'pricing': 30, 'inventory': 28}",82
+E-commerce,0.21,"{'discounts': 33, 'inventory': 58, 'pricing': 24}",109
+Healthcare,0.3,"{'challenges': 37, 'treatment': 28, 'access': 69}",91
+Energy,0.13,"{'power grid': 43, 'oil': 52, 'sustainability': 84}",139
+Energy,0.64,"{'sustainability': 69, 'renewable': 58, 'power grid': 45}",144
+Entertainment,0.77,"{'box office': 82, 'streaming': 42, 'content quality': 20}",86
+Security,0.92,"{'encryption': 28, 'cyberattacks': 70, 'malware': 73}",194
+Retail,0.81,"{'promotions': 62, 'availability': 51, 'discount': 40}",30
+Hospitality,0.58,"{'budget': 31, 'tourism': 72, 'customer experience': 41}",132
+Retail,0.85,"{'returns': 69, 'availability': 75, 'stock': 35}",125
+Real Estate,0.82,"{'investment': 23, 'pricing': 91, 'mortgage': 28}",93
+Automobile,0.84,"{'safety': 30, 'repairs': 84, 'features': 98}",195
+Hospitality,0.67,"{'luxury': 28, 'hotels': 20, 'tourism': 48}",180
+Education,0.32,"{'usability': 91, 'platform': 89, 'students': 91}",46
+Education,0.22,"{'exams': 75, 'features': 36, 'students': 86}",119
+Fashion,0.43,"{'trends': 62, 'accessories': 47, 'streetwear': 56}",81
+Government,0.42,"{'security': 50, 'budget': 57, 'laws': 59}",58
+Food & Beverage,0.66,"{'gourmet': 96, 'ingredients': 55, 'restaurants': 74}",170
+Agriculture,0.93,"{'irrigation': 92, 'crops': 69, 'harvest': 82}",61
+Automobile,0.34,"{'fuel efficiency': 70, 'insurance': 62, 'warranty': 62}",104
+E-commerce,0.87,"{'wishlist': 48, 'discounts': 96, 'inventory': 80}",137
+Agriculture,0.83,"{'soil quality': 55, 'pesticides': 93, 'irrigation': 100}",102
+Technology,0.48,"{'software': 61, 'update': 97, 'cybersecurity': 86}",72
+Government,0.34,"{'budget': 30, 'healthcare reform': 65, 'laws': 22}",171
+Retail,0.39,"{'customer service': 49, 'pricing': 27, 'promotions': 92}",118
+Education,0.36,"{'platform': 67, 'assessment': 75, 'interface': 21}",172
+Healthcare,0.64,"{'treatment': 94, 'hospital': 34, 'telehealth': 46}",139
+Retail,0.23,"{'sales': 38, 'availability': 29, 'stock': 27}",167
+Pharmaceuticals,0.55,"{'prescriptions': 81, 'drug development': 31, 'side effects': 63}",200
+Government,0.49,"{'legislation': 36, 'policy': 71, 'security': 29}",139
+Healthcare,0.98,"{'patient care': 87, 'medications': 98, 'treatment': 51}",37
+E-commerce,0.8,"{'checkout': 37, 'pricing': 89, 'refund': 52}",71
+Education,0.71,"{'students': 25, 'usability': 22, 'teachers': 82}",142
+Finance,0.42,"{'taxes': 80, 'credit': 53, 'insurance': 59}",100
+Security,0.3,"{'encryption': 22, 'authentication': 100, 'biometrics': 59}",105
+Government,0.94,"{'security': 68, 'laws': 90, 'public services': 41}",115
+Food & Beverage,0.91,"{'ingredients': 21, 'fast food': 34, 'health': 20}",86
+Pharmaceuticals,0.81,"{'research': 88, 'medications': 37, 'FDA': 42}",197
+Retail,0.99,"{'discount': 91, 'availability': 46, 'returns': 77}",138
+Government,0.3,"{'regulations': 45, 'healthcare reform': 56, 'security': 79}",196
+Technology,0.25,"{'cybersecurity': 56, 'software': 30, 'cloud': 32}",192
+Food & Beverage,0.03,"{'organic': 72, 'gourmet': 85, 'restaurants': 67}",32
+Food & Beverage,0.32,"{'delivery': 88, 'sustainability': 48, 'restaurants': 30}",31
+Pharmaceuticals,0.08,"{'side effects': 66, 'healthcare': 94, 'vaccines': 95}",151
+Gaming,0.39,"{'multiplayer': 23, 'console': 60, 'esports': 58}",92
+Automobile,0.32,"{'insurance': 88, 'performance': 100, 'features': 36}",31
+Security,0.78,"{'encryption': 92, 'firewalls': 72, 'malware': 74}",108
+E-commerce,0.36,"{'refund': 76, 'delivery': 46, 'pricing': 31}",169
+Entertainment,0.81,"{'subscriptions': 64, 'streaming': 45, 'music': 45}",190
+Pharmaceuticals,0.64,"{'healthcare': 20, 'clinical trials': 86, 'side effects': 51}",174
+Energy,0.6,"{'carbon footprint': 39, 'solar': 28, 'electricity': 43}",131
+Government,0.36,"{'public services': 39, 'elections': 28, 'policy': 38}",137
+Security,0.6,"{'malware': 34, 'firewalls': 34, 'encryption': 21}",138
+Real Estate,0.38,"{'pricing': 79, 'availability': 41, 'construction': 54}",163
+E-commerce,0.45,"{'customer support': 93, 'inventory': 65, 'checkout': 38}",81
+Finance,0.1,"{'insurance': 30, 'debt': 41, 'budgeting': 43}",94
+Energy,0.5,"{'sustainability': 33, 'solar': 43, 'nuclear': 32}",43
+Retail,0.83,"{'loyalty programs': 96, 'availability': 30, 'offers': 98}",187
+Automobile,0.29,"{'maintenance': 46, 'mileage': 52, 'warranty': 56}",85
+Government,0.82,"{'policy': 72, 'laws': 70, 'taxation': 50}",56
+Food & Beverage,0.84,"{'recipes': 76, 'sustainability': 55, 'restaurants': 33}",143
+Technology,0.1,"{'cloud': 72, 'AI': 67, 'hardware': 38}",176
+Education,0.0,"{'learning': 83, 'teachers': 87, 'platform': 58}",68
+E-commerce,0.67,"{'refund': 93, 'service': 69, 'inventory': 57}",134
+Security,0.33,"{'cyberattacks': 68, 'data breaches': 51, 'hacking': 68}",167
+Technology,0.07,"{'performance': 95, 'software': 85, 'update': 71}",198
+Agriculture,0.47,"{'weather': 73, 'fertilizers': 82, 'sustainability': 95}",109
+Entertainment,0.88,"{'video games': 30, 'awards': 23, 'movies': 82}",174
+Energy,0.08,"{'oil': 75, 'carbon footprint': 60, 'electricity': 20}",43
+Food & Beverage,0.74,"{'health': 93, 'organic': 49, 'cuisine': 51}",154
+E-commerce,0.94,"{'refund': 75, 'tracking': 49, 'customer support': 76}",144
+Technology,0.83,"{'cybersecurity': 21, 'AI': 20, 'design': 98}",130
+Telecommunications,0.06,"{'billing': 64, 'coverage': 91, 'data plans': 100}",91
+Pharmaceuticals,0.89,"{'clinical trials': 87, 'healthcare': 46, 'research': 32}",128
+Automobile,0.31,"{'mileage': 92, 'fuel efficiency': 43, 'maintenance': 96}",97
+Security,0.68,"{'data breaches': 99, 'passwords': 66, 'authentication': 23}",114
+E-commerce,0.11,"{'tracking': 48, 'discounts': 30, 'checkout': 57}",152
+Government,0.55,"{'budget': 50, 'regulations': 25, 'healthcare reform': 63}",91
+Telecommunications,0.4,"{'roaming': 78, 'coverage': 72, 'billing': 71}",72
+Pharmaceuticals,0.86,"{'research': 72, 'drug development': 83, 'clinical trials': 56}",58
+Telecommunications,0.05,"{'5G': 65, 'signal': 64, 'ISP': 95}",113
+Technology,0.04,"{'speed': 57, 'design': 85, 'bug': 93}",158
+Fashion,0.77,"{'retail': 77, 'designers': 98, 'accessories': 29}",107
+Agriculture,0.41,"{'crops': 96, 'livestock': 33, 'soil quality': 65}",105
+Energy,0.86,"{'electricity': 29, 'gas': 70, 'carbon footprint': 82}",48
+Fashion,0.52,"{'seasons': 78, 'brands': 34, 'retail': 91}",155
+Healthcare,0.7,"{'access': 29, 'medications': 55, 'treatment': 36}",142
+Finance,0.57,"{'savings': 36, 'interest': 54, 'loan': 79}",30
+Hospitality,0.4,"{'reviews': 43, 'service': 56, 'hotels': 64}",140
+Agriculture,0.06,"{'crops': 21, 'fertilizers': 25, 'sustainability': 27}",61
+Fashion,0.5,"{'designers': 78, 'retail': 35, 'accessories': 76}",106
+Energy,0.31,"{'renewable': 63, 'oil': 54, 'sustainability': 100}",116
+Government,0.06,"{'taxation': 86, 'laws': 86, 'elections': 48}",191
+Gaming,0.92,"{'multiplayer': 93, 'storyline': 55, 'esports': 33}",113
+Government,0.48,"{'healthcare reform': 100, 'budget': 90, 'laws': 78}",59
+Healthcare,0.21,"{'treatment': 81, 'challenges': 100, 'patient care': 47}",101
+Aerospace,0.9,"{'aviation': 60, 'missions': 28, 'safety': 77}",101
+Finance,0.16,"{'investment': 100, 'budgeting': 35, 'insurance': 84}",195
+Gaming,0.6,"{'graphics': 93, 'mobile': 52, 'console': 58}",154
+Retail,0.84,"{'customer service': 82, 'stock': 78, 'returns': 85}",78
+Food & Beverage,0.1,"{'gourmet': 28, 'health': 75, 'organic': 29}",148
+Finance,0.93,"{'interest': 33, 'budgeting': 76, 'investment': 30}",97
+Security,0.48,"{'surveillance': 22, 'hacking': 56, 'biometrics': 51}",73
+Telecommunications,0.52,"{'data plans': 48, 'roaming': 24, 'signal': 32}",87
+Agriculture,0.16,"{'irrigation': 24, 'farming': 25, 'harvest': 31}",74
+Energy,0.31,"{'wind': 21, 'renewable': 62, 'power grid': 97}",43
+E-commerce,0.71,"{'service': 82, 'inventory': 45, 'refund': 22}",154
+Entertainment,0.9,"{'movies': 48, 'concerts': 38, 'music': 84}",78
+Real Estate,0.23,"{'mortgage': 44, 'construction': 41, 'investment': 54}",136
+Security,0.94,"{'passwords': 69, 'surveillance': 88, 'data breaches': 55}",162
+Security,0.41,"{'malware': 90, 'hacking': 60, 'authentication': 72}",61
+Automobile,0.49,"{'maintenance': 59, 'performance': 23, 'mileage': 55}",186
+Security,0.77,"{'malware': 42, 'encryption': 89, 'hacking': 90}",143
+Gaming,0.95,"{'updates': 68, 'VR': 46, 'esports': 40}",170
+Technology,0.7,"{'speed': 23, 'cloud': 68, 'software': 73}",114
+Security,0.8,"{'biometrics': 47, 'firewalls': 95, 'data breaches': 25}",195
+E-commerce,0.46,"{'customer support': 46, 'checkout': 72, 'refund': 21}",82
+Real Estate,0.92,"{'rent': 52, 'pricing': 30, 'property tax': 21}",43
+Gaming,0.94,"{'gameplay': 89, 'mobile': 45, 'graphics': 68}",51
+Security,0.64,"{'encryption': 73, 'firewalls': 49, 'surveillance': 84}",170
+Pharmaceuticals,0.19,"{'side effects': 61, 'research': 29, 'medications': 100}",105
+Food & Beverage,0.52,"{'recipes': 27, 'health': 87, 'fast food': 74}",164
+Real Estate,0.48,"{'amenities': 96, 'housing market': 78, 'pricing': 95}",190
+Pharmaceuticals,0.99,"{'research': 52, 'drug development': 57, 'prescriptions': 68}",30
+Telecommunications,0.03,"{'ISP': 67, 'signal': 31, 'coverage': 38}",199
+Pharmaceuticals,0.04,"{'prescriptions': 72, 'research': 33, 'clinical trials': 30}",151
+Technology,0.29,"{'design': 22, 'speed': 37, 'cloud': 32}",195
+Aerospace,0.82,"{'missions': 87, 'fuel efficiency': 90, 'satellites': 92}",196
+Energy,0.33,"{'renewable': 28, 'carbon footprint': 88, 'gas': 48}",112
+Finance,0.34,"{'budgeting': 99, 'insurance': 99, 'investment': 94}",74
+Finance,0.19,"{'investment': 77, 'banking': 52, 'taxes': 47}",154
+Agriculture,0.49,"{'sustainability': 89, 'weather': 77, 'farming': 36}",198
+E-commerce,0.13,"{'checkout': 46, 'customer support': 30, 'refund': 22}",84
+Technology,0.78,"{'software': 54, 'speed': 93, 'cloud': 98}",75
+Agriculture,0.42,"{'irrigation': 25, 'crops': 20, 'weather': 65}",174
+Food & Beverage,0.55,"{'cuisine': 34, 'organic': 21, 'ingredients': 26}",136
+Retail,0.76,"{'discount': 36, 'loyalty programs': 25, 'pricing': 74}",54
+Aerospace,0.36,"{'engineering': 49, 'rockets': 46, 'defense': 32}",157
+Telecommunications,0.16,"{'data plans': 59, 'signal': 33, 'roaming': 30}",167
+Pharmaceuticals,0.03,"{'drug development': 92, 'biotechnology': 99, 'clinical trials': 96}",132
+Government,0.48,"{'laws': 38, 'legislation': 63, 'elections': 76}",89
+Government,0.27,"{'legislation': 67, 'budget': 76, 'policy': 31}",99
+E-commerce,0.43,"{'wishlist': 70, 'delivery': 74, 'customer support': 84}",58
+E-commerce,0.85,"{'delivery': 98, 'inventory': 91, 'service': 27}",110
+Retail,0.52,"{'availability': 86, 'customer service': 55, 'discount': 64}",153
+Retail,0.39,"{'returns': 52, 'pricing': 77, 'promotions': 97}",174
+Finance,0.7,"{'credit': 33, 'savings': 38, 'insurance': 82}",189
+Energy,0.78,"{'sustainability': 28, 'carbon footprint': 83, 'oil': 72}",107
+Pharmaceuticals,0.69,"{'medications': 60, 'drug development': 34, 'prescriptions': 68}",180
+Entertainment,0.35,"{'awards': 76, 'subscriptions': 76, 'box office': 21}",159
+Gaming,0.84,"{'mobile': 58, 'esports': 76, 'multiplayer': 49}",120
+Healthcare,0.45,"{'access': 49, 'medications': 49, 'insurance': 78}",175
+Automobile,0.02,"{'safety': 34, 'mileage': 74, 'warranty': 36}",57
+Fashion,0.42,"{'accessories': 44, 'retail': 21, 'brands': 92}",167
+Education,0.28,"{'interface': 94, 'curriculum': 53, 'students': 88}",56
+Fashion,0.43,"{'brands': 51, 'seasons': 72, 'runway': 64}",77
+Fashion,0.93,"{'streetwear': 88, 'designers': 75, 'brands': 49}",132
+Government,0.45,"{'healthcare reform': 30, 'security': 94, 'budget': 34}",66
+Gaming,0.98,"{'multiplayer': 65, 'graphics': 58, 'storyline': 80}",76
+Telecommunications,0.58,"{'ISP': 58, '5G': 27, 'coverage': 38}",33
+Hospitality,0.07,"{'restaurants': 89, 'budget': 90, 'hotels': 54}",43
+Real Estate,0.67,"{'amenities': 80, 'property tax': 55, 'housing market': 56}",164
+Security,0.26,"{'firewalls': 47, 'authentication': 56, 'hacking': 85}",119
+Automobile,0.24,"{'design': 71, 'safety': 78, 'features': 41}",51
+Government,0.93,"{'budget': 85, 'laws': 62, 'healthcare reform': 41}",137
+Aerospace,0.35,"{'engineering': 98, 'NASA': 66, 'space travel': 43}",68
+Telecommunications,0.19,"{'signal': 96, 'coverage': 24, 'data plans': 46}",64
+E-commerce,0.31,"{'refund': 84, 'delivery': 85, 'discounts': 55}",105
+Energy,0.18,"{'sustainability': 43, 'solar': 30, 'carbon footprint': 66}",100
+Hospitality,0.26,"{'customer experience': 58, 'tourism': 20, 'travel': 71}",129
+Automobile,0.96,"{'fuel efficiency': 83, 'design': 44, 'repairs': 24}",194
+Gaming,0.68,"{'PC': 90, 'storyline': 54, 'updates': 79}",94
+E-commerce,0.32,"{'discounts': 52, 'refund': 81, 'delivery': 80}",99
+Gaming,0.21,"{'mobile': 89, 'graphics': 43, 'VR': 66}",183
+Government,0.54,"{'laws': 61, 'elections': 91, 'public services': 38}",174
+Finance,0.66,"{'investment': 21, 'banking': 76, 'insurance': 61}",118
+Security,0.38,"{'data breaches': 77, 'encryption': 31, 'firewalls': 23}",118
+Hospitality,0.75,"{'reservations': 35, 'luxury': 81, 'service': 57}",56
+Education,0.16,"{'assessment': 22, 'exams': 38, 'teachers': 33}",78
+Entertainment,0.19,"{'subscriptions': 29, 'video games': 46, 'awards': 51}",77
+Healthcare,0.19,"{'insurance': 31, 'medications': 74, 'telehealth': 79}",37
+Government,0.77,"{'healthcare reform': 82, 'security': 85, 'laws': 33}",34
+Entertainment,0.76,"{'box office': 100, 'movies': 23, 'streaming': 77}",180
+E-commerce,0.1,"{'tracking': 57, 'delivery': 33, 'wishlist': 81}",39
+Energy,0.95,"{'power grid': 47, 'solar': 91, 'oil': 22}",135
+Hospitality,0.02,"{'travel': 34, 'customer experience': 76, 'service': 84}",174
+Entertainment,0.15,"{'box office': 87, 'music': 29, 'content quality': 99}",138
+Food & Beverage,0.63,"{'cuisine': 41, 'organic': 37, 'recipes': 36}",73
+Aerospace,0.64,"{'safety': 25, 'engineering': 84, 'defense': 85}",98
+Healthcare,0.32,"{'access': 50, 'insurance': 92, 'patient care': 74}",156
+E-commerce,0.12,"{'tracking': 73, 'refund': 62, 'service': 62}",193
+Real Estate,0.78,"{'location': 91, 'property tax': 71, 'amenities': 88}",100
+E-commerce,0.87,"{'checkout': 59, 'inventory': 20, 'discounts': 73}",152
+Energy,0.57,"{'power grid': 54, 'renewable': 71, 'oil': 23}",163
+Retail,0.81,"{'promotions': 62, 'stock': 40, 'availability': 85}",103
+Fashion,0.79,"{'accessories': 90, 'fabric': 32, 'luxury': 46}",45
+E-commerce,0.38,"{'refund': 92, 'delivery': 82, 'service': 49}",58
+Security,0.15,"{'surveillance': 35, 'cyberattacks': 40, 'passwords': 53}",85
+Telecommunications,0.04,"{'customer support': 20, 'ISP': 67, 'billing': 87}",75
+Food & Beverage,0.18,"{'health': 40, 'cuisine': 70, 'ingredients': 29}",102
+Automobile,0.7,"{'warranty': 42, 'insurance': 85, 'design': 24}",103
+Hospitality,0.78,"{'reviews': 26, 'luxury': 25, 'budget': 46}",188
+Technology,0.63,"{'software': 92, 'hardware': 72, 'update': 79}",156
+Hospitality,0.52,"{'budget': 96, 'customer experience': 61, 'service': 36}",109
+Security,0.18,"{'passwords': 26, 'biometrics': 98, 'malware': 30}",112
+Retail,0.32,"{'discount': 28, 'loyalty programs': 39, 'stock': 70}",65
+Aerospace,0.49,"{'NASA': 89, 'safety': 64, 'missions': 24}",116
+Fashion,0.52,"{'streetwear': 73, 'brands': 74, 'fabric': 27}",120
+Gaming,0.93,"{'graphics': 27, 'VR': 62, 'multiplayer': 24}",143
+Finance,0.83,"{'taxes': 55, 'investment': 84, 'budgeting': 100}",66
+Government,0.57,"{'taxation': 50, 'security': 60, 'public services': 45}",140
+Entertainment,0.62,"{'concerts': 88, 'movies': 37, 'music': 84}",169
+Real Estate,0.75,"{'property tax': 91, 'availability': 49, 'housing market': 86}",142
+Gaming,0.24,"{'PC': 20, 'mobile': 72, 'console': 27}",62
+Agriculture,1.0,"{'fertilizers': 25, 'irrigation': 48, 'crops': 40}",179
+Education,0.49,"{'interface': 40, 'usability': 49, 'platform': 47}",33
+Healthcare,0.78,"{'hospital': 35, 'wait times': 41, 'insurance': 77}",73
+Automobile,0.17,"{'performance': 80, 'mileage': 48, 'fuel efficiency': 41}",154
+Energy,0.55,"{'renewable': 48, 'solar': 61, 'wind': 71}",39
+Energy,0.37,"{'carbon footprint': 74, 'power grid': 52, 'wind': 66}",163
+Pharmaceuticals,0.13,"{'clinical trials': 94, 'prescriptions': 72, 'biotechnology': 25}",155
+Aerospace,0.04,"{'fuel efficiency': 21, 'defense': 31, 'space travel': 25}",187
+Telecommunications,0.2,"{'network': 77, 'customer support': 31, 'ISP': 41}",140
+Retail,0.47,"{'availability': 40, 'sales': 94, 'returns': 92}",156
+Retail,0.49,"{'loyalty programs': 62, 'discount': 79, 'returns': 36}",196
+Security,0.58,"{'biometrics': 88, 'cyberattacks': 38, 'firewalls': 84}",55
+Energy,0.54,"{'electricity': 69, 'wind': 93, 'gas': 27}",139
+Automobile,0.75,"{'maintenance': 79, 'warranty': 47, 'design': 38}",41
+Agriculture,0.72,"{'harvest': 81, 'livestock': 86, 'crops': 47}",97
+Food & Beverage,0.36,"{'delivery': 26, 'health': 62, 'cuisine': 32}",121
+Aerospace,0.89,"{'missions': 60, 'NASA': 36, 'defense': 60}",165
+Fashion,0.39,"{'luxury': 41, 'accessories': 93, 'seasons': 25}",105
+Security,0.2,"{'firewalls': 66, 'biometrics': 60, 'encryption': 63}",162
+Pharmaceuticals,0.1,"{'clinical trials': 78, 'healthcare': 39, 'vaccines': 39}",138
+Real Estate,0.36,"{'housing market': 92, 'investment': 98, 'property tax': 35}",79
+Gaming,0.32,"{'PC': 90, 'graphics': 41, 'gameplay': 59}",131
+E-commerce,0.99,"{'pricing': 46, 'discounts': 100, 'customer support': 42}",134
+Fashion,0.89,"{'accessories': 44, 'runway': 72, 'brands': 59}",60
+Aerospace,0.81,"{'defense': 94, 'satellites': 56, 'aviation': 25}",186
+Technology,0.84,"{'cybersecurity': 65, 'speed': 58, 'AI': 29}",50
+Retail,0.69,"{'pricing': 74, 'offers': 62, 'discount': 55}",86
+Real Estate,0.51,"{'availability': 63, 'investment': 67, 'construction': 97}",141
+Security,0.38,"{'encryption': 54, 'passwords': 43, 'hacking': 60}",104
+Education,0.0,"{'assessment': 58, 'teachers': 43, 'usability': 85}",57
+Fashion,0.88,"{'brands': 81, 'retail': 97, 'fabric': 35}",42
+Entertainment,0.68,"{'music': 91, 'content quality': 49, 'awards': 50}",193
+Food & Beverage,0.52,"{'restaurants': 78, 'gourmet': 85, 'delivery': 97}",63
+Aerospace,0.72,"{'defense': 75, 'aviation': 20, 'missions': 59}",104
+Telecommunications,0.06,"{'roaming': 89, 'coverage': 78, '5G': 29}",141
+Government,0.58,"{'laws': 21, 'policy': 47, 'security': 69}",63
+Automobile,0.62,"{'warranty': 44, 'repairs': 38, 'performance': 53}",61
+Food & Beverage,0.39,"{'restaurants': 94, 'ingredients': 97, 'fast food': 61}",103
+Pharmaceuticals,0.66,"{'vaccines': 37, 'prescriptions': 30, 'medications': 40}",176
+E-commerce,0.6,"{'wishlist': 30, 'service': 58, 'checkout': 31}",79
+Food & Beverage,0.42,"{'recipes': 93, 'organic': 56, 'restaurants': 73}",50
+Hospitality,0.08,"{'hotels': 57, 'luxury': 85, 'restaurants': 89}",133
+Healthcare,0.33,"{'hospital': 40, 'access': 46, 'insurance': 32}",162
+Food & Beverage,0.02,"{'organic': 74, 'health': 78, 'fast food': 52}",117
+Automobile,0.21,"{'mileage': 77, 'safety': 67, 'fuel efficiency': 68}",168
+Fashion,0.72,"{'fabric': 71, 'runway': 58, 'accessories': 96}",108
+E-commerce,0.5,"{'pricing': 21, 'customer support': 42, 'refund': 96}",132
+Fashion,0.64,"{'brands': 27, 'trends': 49, 'accessories': 33}",86
+Government,0.79,"{'healthcare reform': 56, 'laws': 56, 'elections': 70}",175
+Healthcare,0.69,"{'hospital': 98, 'diagnosis': 48, 'patient care': 33}",171
+E-commerce,0.63,"{'pricing': 95, 'customer support': 54, 'tracking': 75}",171
+Healthcare,0.02,"{'telehealth': 86, 'patient care': 87, 'hospital': 22}",77
+Retail,0.61,"{'discount': 97, 'loyalty programs': 39, 'sales': 25}",199
+Energy,0.27,"{'sustainability': 73, 'renewable': 73, 'wind': 98}",153
+Retail,0.03,"{'offers': 86, 'customer service': 23, 'returns': 98}",37
+Telecommunications,0.73,"{'ISP': 79, 'coverage': 33, '5G': 75}",150
+Education,0.28,"{'teachers': 87, 'students': 43, 'exams': 22}",129
+Finance,0.72,"{'loan': 44, 'credit': 23, 'banking': 100}",173
+Aerospace,0.03,"{'rockets': 29, 'engineering': 82, 'fuel efficiency': 26}",58
+Energy,0.91,"{'electricity': 42, 'nuclear': 89, 'gas': 39}",136
+Hospitality,0.98,"{'customer experience': 53, 'reviews': 21, 'reservations': 82}",184
+Government,0.96,"{'regulations': 38, 'budget': 25, 'laws': 81}",88
+E-commerce,0.34,"{'wishlist': 49, 'customer support': 100, 'inventory': 83}",147
+Technology,0.65,"{'hardware': 45, 'speed': 92, 'bug': 35}",57
+Automobile,0.53,"{'warranty': 77, 'insurance': 77, 'maintenance': 55}",77
+Entertainment,0.01,"{'video games': 47, 'reviews': 72, 'content quality': 29}",152
+Entertainment,0.48,"{'music': 90, 'box office': 33, 'content quality': 31}",38
+Automobile,0.75,"{'safety': 46, 'performance': 83, 'insurance': 51}",195
+Retail,0.68,"{'sales': 83, 'customer service': 55, 'returns': 100}",112
+Finance,0.55,"{'debt': 51, 'interest': 81, 'banking': 98}",171
+Automobile,0.88,"{'fuel efficiency': 43, 'performance': 66, 'repairs': 95}",108
+Energy,0.31,"{'carbon footprint': 59, 'electricity': 41, 'sustainability': 98}",43
+Security,0.19,"{'authentication': 85, 'surveillance': 32, 'firewalls': 51}",107
+Technology,0.68,"{'AI': 80, 'update': 25, 'hardware': 91}",54
+Technology,0.84,"{'hardware': 44, 'AI': 60, 'cybersecurity': 81}",149
+Real Estate,0.2,"{'housing market': 71, 'mortgage': 95, 'investment': 72}",85
+Government,0.9,"{'legislation': 99, 'laws': 74, 'taxation': 82}",169
+Government,0.3,"{'public services': 53, 'laws': 50, 'security': 88}",160
+Gaming,0.57,"{'graphics': 54, 'multiplayer': 100, 'storyline': 47}",142
+Security,0.68,"{'data breaches': 85, 'authentication': 100, 'passwords': 65}",180
+Government,0.78,"{'security': 33, 'laws': 75, 'healthcare reform': 52}",133
+Education,0.25,"{'exams': 54, 'usability': 54, 'features': 24}",81
+Telecommunications,0.73,"{'signal': 80, 'network': 61, 'data plans': 22}",70
+Real Estate,0.9,"{'housing market': 66, 'amenities': 26, 'location': 34}",125
+Government,0.21,"{'legislation': 81, 'laws': 99, 'regulations': 28}",41
+Gaming,0.87,"{'graphics': 43, 'multiplayer': 62, 'gameplay': 55}",62
+Technology,0.88,"{'hardware': 52, 'AI': 80, 'design': 92}",62
+Energy,0.32,"{'carbon footprint': 76, 'electricity': 82, 'sustainability': 89}",100
+Gaming,0.52,"{'esports': 20, 'graphics': 71, 'mobile': 73}",34
+Entertainment,0.25,"{'video games': 94, 'awards': 49, 'box office': 59}",61
+Food & Beverage,0.01,"{'gourmet': 91, 'ingredients': 32, 'recipes': 80}",123
+Technology,0.09,"{'software': 34, 'AI': 20, 'cybersecurity': 97}",72
+Fashion,0.87,"{'streetwear': 35, 'brands': 60, 'runway': 21}",58
+Energy,0.47,"{'power grid': 70, 'carbon footprint': 98, 'sustainability': 95}",165
+Energy,0.67,"{'power grid': 54, 'oil': 87, 'gas': 23}",64
+Food & Beverage,0.55,"{'cuisine': 93, 'recipes': 83, 'sustainability': 79}",183
+Food & Beverage,0.78,"{'recipes': 33, 'gourmet': 21, 'organic': 21}",141
+Government,0.95,"{'legislation': 43, 'budget': 34, 'laws': 23}",181
+Fashion,0.69,"{'fabric': 54, 'brands': 62, 'runway': 39}",153
+Education,0.89,"{'interface': 93, 'usability': 23, 'learning': 79}",144
+Healthcare,0.69,"{'patient care': 41, 'hospital': 35, 'wait times': 95}",100
+Aerospace,0.3,"{'space travel': 46, 'safety': 73, 'NASA': 50}",52
+Telecommunications,0.17,"{'5G': 84, 'network': 60, 'signal': 48}",54
+Healthcare,0.88,"{'medications': 75, 'patient care': 91, 'wait times': 99}",171
+Hospitality,0.82,"{'hotels': 48, 'restaurants': 87, 'budget': 69}",72
+Technology,0.94,"{'performance': 77, 'update': 96, 'software': 33}",120
+Retail,0.53,"{'discount': 85, 'availability': 24, 'sales': 87}",121
+Energy,0.4,"{'renewable': 53, 'power grid': 43, 'carbon footprint': 89}",132
+Real Estate,0.41,"{'property tax': 38, 'location': 35, 'housing market': 44}",99
+Real Estate,0.43,"{'location': 87, 'investment': 42, 'rent': 96}",41
+Agriculture,0.63,"{'soil quality': 34, 'sustainability': 40, 'harvest': 56}",192
+Automobile,0.86,"{'fuel efficiency': 88, 'maintenance': 54, 'insurance': 25}",76
+Healthcare,0.38,"{'challenges': 40, 'treatment': 52, 'patient care': 66}",108
+Food & Beverage,0.29,"{'delivery': 45, 'cuisine': 100, 'organic': 77}",82
+Finance,0.47,"{'credit': 32, 'insurance': 81, 'investment': 80}",36
+Security,0.85,"{'cyberattacks': 27, 'passwords': 31, 'authentication': 94}",131
+Energy,0.85,"{'renewable': 50, 'solar': 58, 'oil': 36}",199
+Aerospace,0.6,"{'satellites': 33, 'NASA': 63, 'missions': 43}",103
+Real Estate,0.39,"{'rent': 99, 'investment': 75, 'amenities': 43}",69
+Technology,0.35,"{'cybersecurity': 45, 'cloud': 65, 'design': 99}",93
+Technology,0.57,"{'AI': 54, 'cybersecurity': 89, 'bug': 40}",117
+Healthcare,0.4,"{'wait times': 67, 'insurance': 65, 'hospital': 22}",80
+Food & Beverage,0.6,"{'delivery': 69, 'cuisine': 71, 'ingredients': 70}",182
+Hospitality,0.91,"{'budget': 56, 'restaurants': 29, 'luxury': 41}",128
+Real Estate,0.28,"{'mortgage': 38, 'location': 67, 'rent': 94}",149
+Healthcare,0.31,"{'diagnosis': 99, 'telehealth': 84, 'medications': 95}",84
+Food & Beverage,0.13,"{'cuisine': 51, 'ingredients': 77, 'gourmet': 54}",92
+Automobile,0.83,"{'performance': 52, 'fuel efficiency': 73, 'features': 69}",132
+Real Estate,0.59,"{'construction': 50, 'amenities': 38, 'availability': 75}",41
+Agriculture,0.84,"{'fertilizers': 41, 'harvest': 61, 'pesticides': 31}",32
+Aerospace,0.88,"{'missions': 94, 'space travel': 69, 'fuel efficiency': 41}",132
+Aerospace,0.49,"{'aviation': 53, 'space travel': 50, 'missions': 69}",123
+Healthcare,0.46,"{'medications': 42, 'access': 41, 'insurance': 36}",40
+Real Estate,0.35,"{'pricing': 49, 'property tax': 79, 'construction': 42}",47
+Government,0.13,"{'taxation': 53, 'laws': 42, 'policy': 40}",142
+Food & Beverage,0.77,"{'delivery': 52, 'fast food': 32, 'recipes': 53}",181
+Energy,0.59,"{'electricity': 85, 'sustainability': 31, 'gas': 35}",169
+Retail,0.69,"{'customer service': 39, 'loyalty programs': 40, 'offers': 73}",176
+Security,0.83,"{'encryption': 34, 'firewalls': 48, 'hacking': 84}",31
+Food & Beverage,0.04,"{'ingredients': 86, 'delivery': 36, 'restaurants': 33}",175
+Gaming,0.94,"{'esports': 27, 'gameplay': 45, 'mobile': 43}",165
+Hospitality,0.38,"{'reservations': 86, 'customer experience': 36, 'tourism': 80}",128
+Retail,0.31,"{'sales': 79, 'loyalty programs': 39, 'pricing': 33}",95
+Security,0.83,"{'malware': 26, 'hacking': 67, 'cyberattacks': 30}",49
+Energy,0.89,"{'gas': 63, 'sustainability': 48, 'wind': 89}",86
+Finance,0.08,"{'savings': 49, 'credit': 87, 'insurance': 62}",173
+Fashion,0.26,"{'runway': 60, 'designers': 26, 'brands': 73}",127
+E-commerce,0.9,"{'customer support': 66, 'inventory': 35, 'delivery': 35}",125
+Government,0.91,"{'policy': 62, 'legislation': 40, 'healthcare reform': 90}",128
+Agriculture,0.01,"{'irrigation': 87, 'crops': 32, 'livestock': 89}",111
+Finance,0.66,"{'debt': 91, 'taxes': 97, 'credit': 55}",61
+Pharmaceuticals,0.06,"{'FDA': 25, 'prescriptions': 72, 'medications': 60}",143
+E-commerce,0.22,"{'delivery': 83, 'wishlist': 96, 'discounts': 80}",184
+Agriculture,0.18,"{'soil quality': 61, 'sustainability': 62, 'farming': 52}",112
+Government,0.32,"{'public services': 61, 'budget': 99, 'policy': 75}",180
+Real Estate,0.34,"{'pricing': 52, 'construction': 32, 'mortgage': 34}",110
+Automobile,0.36,"{'performance': 90, 'repairs': 90, 'safety': 78}",79
+Aerospace,0.34,"{'safety': 24, 'rockets': 88, 'NASA': 89}",30
+Agriculture,0.78,"{'sustainability': 26, 'weather': 91, 'livestock': 26}",147
+Automobile,0.28,"{'safety': 65, 'performance': 25, 'design': 94}",164
+Automobile,0.27,"{'safety': 100, 'mileage': 35, 'warranty': 60}",171
+Gaming,0.04,"{'storyline': 96, 'graphics': 84, 'PC': 64}",37
+Finance,0.09,"{'savings': 39, 'interest': 30, 'debt': 98}",193
+Technology,0.66,"{'AI': 33, 'performance': 22, 'hardware': 41}",34
+Entertainment,0.1,"{'streaming': 46, 'awards': 52, 'music': 75}",54
+Gaming,0.71,"{'multiplayer': 42, 'esports': 48, 'graphics': 57}",193
+Agriculture,0.36,"{'irrigation': 68, 'harvest': 80, 'fertilizers': 73}",70
+Healthcare,0.47,"{'challenges': 53, 'hospital': 35, 'treatment': 78}",159
+Finance,0.26,"{'budgeting': 46, 'taxes': 72, 'interest': 64}",173
+Retail,0.21,"{'discount': 27, 'sales': 73, 'offers': 28}",37
+Aerospace,0.68,"{'safety': 21, 'aviation': 78, 'defense': 28}",129
+Food & Beverage,0.47,"{'ingredients': 98, 'organic': 47, 'health': 88}",60
+Agriculture,0.61,"{'pesticides': 93, 'farming': 76, 'fertilizers': 30}",188
+E-commerce,0.75,"{'delivery': 57, 'service': 82, 'refund': 61}",119
+Entertainment,1.0,"{'reviews': 23, 'concerts': 93, 'content quality': 52}",184
+Retail,0.95,"{'availability': 47, 'loyalty programs': 93, 'returns': 86}",99
+Retail,0.71,"{'customer service': 78, 'stock': 27, 'offers': 65}",123
+Healthcare,0.58,"{'challenges': 82, 'diagnosis': 41, 'medications': 48}",127
+Healthcare,0.11,"{'treatment': 52, 'challenges': 60, 'wait times': 67}",32
+Entertainment,0.59,"{'streaming': 87, 'reviews': 31, 'awards': 83}",132
+Education,0.05,"{'assessment': 76, 'exams': 93, 'learning': 77}",99
+Food & Beverage,0.03,"{'restaurants': 35, 'recipes': 35, 'fast food': 41}",103
+Technology,0.63,"{'software': 59, 'design': 47, 'hardware': 36}",163
+Education,0.16,"{'interface': 92, 'features': 49, 'platform': 96}",147
+Hospitality,0.59,"{'service': 29, 'restaurants': 79, 'tourism': 52}",115
+Healthcare,0.27,"{'diagnosis': 61, 'access': 53, 'challenges': 79}",37
+Government,0.74,"{'public services': 32, 'security': 30, 'legislation': 82}",155
+Healthcare,0.26,"{'wait times': 83, 'patient care': 72, 'access': 62}",135
+Food & Beverage,0.03,"{'restaurants': 71, 'recipes': 36, 'organic': 65}",116
+Pharmaceuticals,0.82,"{'research': 88, 'medications': 69, 'FDA': 99}",104
+Retail,0.87,"{'discount': 98, 'returns': 69, 'stock': 67}",127
+Security,0.47,"{'cyberattacks': 38, 'passwords': 99, 'malware': 84}",191
+Government,0.35,"{'healthcare reform': 70, 'taxation': 72, 'policy': 42}",177
+Aerospace,0.54,"{'safety': 81, 'satellites': 87, 'defense': 26}",170
+Telecommunications,0.35,"{'data plans': 80, 'roaming': 74, 'ISP': 50}",125
+Pharmaceuticals,0.97,"{'clinical trials': 26, 'research': 36, 'prescriptions': 62}",88
+Security,0.43,"{'hacking': 51, 'data breaches': 70, 'encryption': 83}",123
+Real Estate,0.89,"{'pricing': 96, 'housing market': 22, 'location': 41}",115
+Entertainment,0.58,"{'music': 52, 'subscriptions': 81, 'concerts': 45}",92
+Pharmaceuticals,0.25,"{'healthcare': 79, 'FDA': 36, 'prescriptions': 93}",44
+Entertainment,0.57,"{'music': 68, 'video games': 38, 'streaming': 32}",145
+Technology,0.54,"{'performance': 47, 'hardware': 65, 'cloud': 54}",104
+Agriculture,0.39,"{'fertilizers': 30, 'irrigation': 93, 'pesticides': 52}",131
+Real Estate,0.89,"{'amenities': 50, 'mortgage': 33, 'rent': 77}",52
+Technology,0.48,"{'speed': 53, 'bug': 30, 'cloud': 91}",150
+Hospitality,1.0,"{'budget': 67, 'tourism': 26, 'reservations': 60}",183
+Finance,0.32,"{'investment': 37, 'budgeting': 23, 'savings': 74}",38
+Aerospace,0.48,"{'space travel': 32, 'rockets': 36, 'fuel efficiency': 23}",115
+Real Estate,0.43,"{'construction': 29, 'pricing': 79, 'rent': 23}",37
+Real Estate,0.17,"{'mortgage': 37, 'property tax': 82, 'construction': 26}",93
+Hospitality,0.7,"{'tourism': 70, 'luxury': 53, 'reservations': 97}",75
+Retail,0.81,"{'returns': 85, 'customer service': 89, 'discount': 67}",66
+Technology,0.49,"{'design': 47, 'software': 42, 'cloud': 21}",102
+Food & Beverage,0.38,"{'organic': 35, 'fast food': 89, 'cuisine': 33}",135
+Healthcare,0.41,"{'treatment': 53, 'insurance': 43, 'wait times': 53}",40
+Automobile,0.25,"{'repairs': 99, 'design': 60, 'performance': 64}",60
+Agriculture,0.29,"{'pesticides': 100, 'farming': 45, 'crops': 27}",173
+Real Estate,0.72,"{'investment': 27, 'availability': 51, 'location': 88}",141
+Healthcare,0.49,"{'diagnosis': 90, 'insurance': 94, 'telehealth': 31}",39
+Retail,0.41,"{'sales': 51, 'discount': 56, 'promotions': 55}",164
+Technology,0.96,"{'bug': 80, 'cybersecurity': 60, 'cloud': 44}",179
+Automobile,0.82,"{'repairs': 32, 'mileage': 59, 'performance': 96}",123
+Finance,0.02,"{'budgeting': 73, 'taxes': 81, 'investment': 59}",39
+Automobile,0.4,"{'mileage': 71, 'design': 99, 'performance': 91}",55
+E-commerce,0.82,"{'discounts': 100, 'pricing': 52, 'tracking': 51}",180
+Education,0.54,"{'teachers': 53, 'students': 47, 'curriculum': 86}",124
+Retail,0.13,"{'promotions': 87, 'offers': 56, 'pricing': 20}",199
+Aerospace,0.98,"{'rockets': 68, 'defense': 53, 'missions': 51}",187
+Fashion,0.58,"{'runway': 78, 'designers': 91, 'fabric': 65}",85
+Telecommunications,0.1,"{'ISP': 25, 'customer support': 93, '5G': 68}",181
+Telecommunications,0.88,"{'roaming': 68, 'data plans': 87, 'ISP': 29}",65
+Healthcare,0.53,"{'telehealth': 88, 'challenges': 70, 'hospital': 34}",92
+Aerospace,0.43,"{'engineering': 54, 'missions': 79, 'space travel': 56}",143
+Agriculture,0.09,"{'soil quality': 52, 'weather': 93, 'pesticides': 84}",120
+Automobile,0.3,"{'fuel efficiency': 20, 'mileage': 70, 'maintenance': 72}",196
+Automobile,0.22,"{'performance': 55, 'insurance': 79, 'fuel efficiency': 60}",109
+Gaming,0.87,"{'VR': 37, 'multiplayer': 20, 'graphics': 84}",187
+Real Estate,0.9,"{'amenities': 36, 'pricing': 24, 'location': 90}",61
+Healthcare,0.47,"{'challenges': 94, 'treatment': 44, 'wait times': 75}",149
+Gaming,0.57,"{'console': 61, 'mobile': 85, 'updates': 34}",74
+Finance,0.51,"{'banking': 43, 'budgeting': 80, 'savings': 43}",49
+Fashion,0.18,"{'runway': 99, 'luxury': 39, 'accessories': 53}",191
+Gaming,0.88,"{'VR': 89, 'graphics': 100, 'mobile': 82}",57
+Fashion,0.38,"{'runway': 36, 'luxury': 56, 'seasons': 60}",43
+Real Estate,0.8,"{'availability': 25, 'housing market': 75, 'amenities': 65}",189
+Government,0.21,"{'legislation': 53, 'security': 91, 'policy': 89}",78
+Retail,0.13,"{'offers': 30, 'availability': 22, 'stock': 81}",178
+Gaming,0.23,"{'updates': 85, 'esports': 68, 'multiplayer': 59}",46
+Healthcare,0.21,"{'hospital': 54, 'diagnosis': 74, 'challenges': 90}",57
+Finance,0.33,"{'debt': 68, 'taxes': 91, 'interest': 59}",170
+Automobile,0.33,"{'features': 40, 'design': 21, 'fuel efficiency': 23}",88
+Finance,0.12,"{'interest': 29, 'credit': 49, 'savings': 55}",162
+Healthcare,0.45,"{'telehealth': 66, 'access': 78, 'wait times': 27}",112
+Hospitality,0.78,"{'customer experience': 65, 'service': 55, 'budget': 55}",106
+Education,0.1,"{'assessment': 63, 'teachers': 89, 'platform': 48}",126
+Gaming,0.43,"{'VR': 51, 'multiplayer': 44, 'storyline': 58}",41
+Telecommunications,0.1,"{'5G': 75, 'customer support': 48, 'ISP': 51}",132
+Gaming,0.48,"{'console': 52, 'PC': 22, 'graphics': 84}",127
+Telecommunications,0.2,"{'infrastructure': 66, 'customer support': 89, 'data plans': 72}",102
+Entertainment,0.6,"{'streaming': 33, 'concerts': 27, 'video games': 44}",128
+Food & Beverage,0.02,"{'gourmet': 27, 'sustainability': 28, 'recipes': 75}",47
+Automobile,0.62,"{'mileage': 82, 'features': 52, 'safety': 23}",167
+Real Estate,0.19,"{'construction': 55, 'location': 97, 'mortgage': 22}",42
+Aerospace,0.19,"{'engineering': 46, 'defense': 87, 'safety': 80}",53
+Education,0.55,"{'assessment': 68, 'teachers': 39, 'interface': 21}",191
+Education,0.57,"{'interface': 20, 'curriculum': 59, 'exams': 100}",194
+Food & Beverage,0.7,"{'gourmet': 73, 'health': 63, 'ingredients': 38}",126
+Fashion,0.53,"{'brands': 61, 'fabric': 72, 'runway': 54}",113
+Agriculture,0.94,"{'harvest': 42, 'pesticides': 68, 'sustainability': 77}",198
+Fashion,0.69,"{'streetwear': 53, 'accessories': 32, 'seasons': 28}",187
+E-commerce,0.08,"{'wishlist': 72, 'refund': 28, 'service': 38}",104
+Energy,0.83,"{'solar': 70, 'sustainability': 52, 'oil': 67}",33
+Hospitality,0.64,"{'hotels': 100, 'luxury': 67, 'budget': 32}",36
+Telecommunications,0.67,"{'data plans': 87, 'roaming': 99, 'coverage': 48}",142
+Food & Beverage,0.09,"{'delivery': 71, 'health': 81, 'ingredients': 59}",200
+Telecommunications,0.18,"{'signal': 74, 'coverage': 55, 'billing': 64}",33
+Healthcare,0.47,"{'access': 84, 'patient care': 82, 'insurance': 81}",156
+Hospitality,0.15,"{'luxury': 24, 'tourism': 29, 'hotels': 86}",43
+Healthcare,0.92,"{'diagnosis': 58, 'medications': 39, 'treatment': 57}",77
+Security,0.85,"{'authentication': 60, 'encryption': 68, 'cyberattacks': 47}",83
+Energy,0.93,"{'gas': 35, 'nuclear': 81, 'electricity': 63}",42
+Hospitality,0.48,"{'reservations': 40, 'customer experience': 91, 'reviews': 84}",45
+Retail,0.64,"{'availability': 100, 'discount': 27, 'loyalty programs': 54}",183
+Real Estate,0.5,"{'rent': 69, 'mortgage': 54, 'pricing': 93}",122
+Finance,0.66,"{'debt': 43, 'investment': 22, 'banking': 44}",64
+Technology,0.69,"{'design': 46, 'performance': 38, 'AI': 100}",68
+Automobile,0.89,"{'warranty': 59, 'mileage': 61, 'insurance': 86}",98
+Telecommunications,0.4,"{'data plans': 100, 'customer support': 39, 'roaming': 57}",62
+Hospitality,0.86,"{'reviews': 94, 'restaurants': 47, 'customer experience': 59}",166
+Energy,0.2,"{'solar': 34, 'carbon footprint': 67, 'oil': 37}",101
+Pharmaceuticals,0.53,"{'side effects': 76, 'research': 60, 'biotechnology': 70}",189
+Gaming,0.65,"{'storyline': 67, 'updates': 31, 'mobile': 89}",130
+Healthcare,0.1,"{'wait times': 94, 'medications': 80, 'insurance': 80}",88
+Retail,0.31,"{'pricing': 55, 'promotions': 49, 'discount': 33}",179
+Technology,0.91,"{'cybersecurity': 85, 'bug': 81, 'software': 57}",39
+Finance,0.9,"{'debt': 30, 'savings': 32, 'investment': 66}",147
+Retail,0.34,"{'discount': 54, 'promotions': 82, 'stock': 25}",75
+Aerospace,0.81,"{'NASA': 47, 'fuel efficiency': 64, 'engineering': 91}",74
+Healthcare,0.83,"{'diagnosis': 29, 'wait times': 47, 'treatment': 60}",165
+Aerospace,0.31,"{'missions': 29, 'rockets': 56, 'satellites': 35}",148
+Retail,0.69,"{'pricing': 32, 'offers': 65, 'stock': 72}",109
+Government,0.28,"{'healthcare reform': 95, 'budget': 96, 'legislation': 61}",139
+Fashion,0.16,"{'luxury': 59, 'retail': 58, 'fabric': 94}",95
+Hospitality,0.57,"{'budget': 73, 'tourism': 79, 'luxury': 59}",84
+Agriculture,0.6,"{'crops': 52, 'livestock': 25, 'weather': 57}",129
+Entertainment,0.62,"{'box office': 36, 'awards': 33, 'movies': 37}",100
+E-commerce,0.68,"{'wishlist': 98, 'inventory': 84, 'checkout': 32}",117
+Real Estate,0.66,"{'investment': 76, 'housing market': 53, 'amenities': 68}",96
+Education,0.06,"{'usability': 40, 'assessment': 85, 'teachers': 80}",142
+Agriculture,0.92,"{'fertilizers': 61, 'weather': 63, 'livestock': 64}",159
+Telecommunications,0.55,"{'customer support': 56, 'billing': 84, 'infrastructure': 94}",139
+Aerospace,0.19,"{'NASA': 36, 'engineering': 28, 'rockets': 83}",56
+Government,0.78,"{'elections': 61, 'policy': 90, 'public services': 31}",155
+Entertainment,0.51,"{'box office': 31, 'reviews': 47, 'music': 30}",164
+Energy,0.03,"{'power grid': 87, 'nuclear': 40, 'gas': 38}",173
+Aerospace,0.62,"{'aviation': 58, 'missions': 60, 'NASA': 37}",173
+Hospitality,0.22,"{'reservations': 41, 'tourism': 56, 'budget': 85}",134
+Food & Beverage,0.93,"{'cuisine': 97, 'delivery': 38, 'ingredients': 96}",132
+Real Estate,0.9,"{'pricing': 25, 'construction': 47, 'availability': 33}",182
+Fashion,0.81,"{'seasons': 44, 'brands': 20, 'streetwear': 66}",124
+Hospitality,0.51,"{'budget': 58, 'restaurants': 71, 'service': 26}",165
+Security,0.18,"{'encryption': 35, 'cyberattacks': 32, 'surveillance': 43}",60
+E-commerce,0.67,"{'wishlist': 57, 'refund': 56, 'tracking': 44}",130
+Automobile,0.73,"{'maintenance': 66, 'warranty': 33, 'safety': 31}",63
+Security,0.23,"{'authentication': 93, 'firewalls': 94, 'cyberattacks': 49}",93
+Gaming,0.4,"{'multiplayer': 35, 'graphics': 30, 'VR': 37}",65
+Telecommunications,0.88,"{'signal': 58, 'data plans': 40, 'roaming': 60}",60
+Retail,0.32,"{'promotions': 58, 'offers': 40, 'availability': 56}",114
+Hospitality,0.23,"{'budget': 82, 'customer experience': 60, 'reservations': 23}",97
+Energy,0.8,"{'solar': 85, 'gas': 51, 'power grid': 20}",153
+Aerospace,0.24,"{'defense': 62, 'safety': 86, 'space travel': 90}",66
+Pharmaceuticals,0.81,"{'research': 30, 'medications': 77, 'clinical trials': 42}",132
+Telecommunications,0.83,"{'network': 65, 'data plans': 40, 'coverage': 69}",141
+Pharmaceuticals,0.2,"{'healthcare': 69, 'FDA': 78, 'research': 22}",198
+Gaming,0.31,"{'esports': 96, 'PC': 88, 'graphics': 52}",78
+Government,0.68,"{'regulations': 35, 'public services': 88, 'budget': 45}",176
+Automobile,0.51,"{'mileage': 54, 'insurance': 67, 'performance': 58}",48
+Technology,0.0,"{'AI': 100, 'bug': 61, 'cloud': 32}",115
+Finance,0.61,"{'savings': 93, 'banking': 75, 'taxes': 82}",36
+Education,0.68,"{'platform': 39, 'teachers': 97, 'features': 31}",88
+Technology,0.17,"{'hardware': 99, 'cloud': 44, 'design': 95}",178
+Finance,0.9,"{'debt': 58, 'savings': 51, 'insurance': 72}",177
+E-commerce,0.43,"{'wishlist': 80, 'checkout': 24, 'tracking': 82}",141
+Entertainment,0.34,"{'movies': 84, 'content quality': 98, 'video games': 28}",198
+Security,0.68,"{'surveillance': 72, 'malware': 49, 'biometrics': 95}",190
+Pharmaceuticals,0.93,"{'prescriptions': 97, 'research': 22, 'drug development': 34}",142
+Food & Beverage,0.7,"{'health': 80, 'gourmet': 45, 'fast food': 97}",76
+Retail,0.29,"{'customer service': 37, 'availability': 55, 'offers': 32}",77
+Pharmaceuticals,0.1,"{'clinical trials': 98, 'medications': 52, 'vaccines': 59}",87
+Fashion,0.94,"{'trends': 81, 'seasons': 53, 'luxury': 98}",36
+Education,0.28,"{'platform': 46, 'exams': 52, 'usability': 22}",148
+Security,0.82,"{'surveillance': 86, 'encryption': 30, 'malware': 71}",187
+Technology,0.28,"{'performance': 83, 'speed': 99, 'bug': 94}",58
+Fashion,0.49,"{'fabric': 33, 'trends': 76, 'retail': 97}",117
+Energy,0.13,"{'nuclear': 56, 'power grid': 68, 'carbon footprint': 60}",153
+Retail,0.86,"{'pricing': 57, 'discount': 89, 'sales': 71}",154
+E-commerce,0.57,"{'pricing': 26, 'wishlist': 33, 'refund': 72}",78
+E-commerce,0.52,"{'refund': 30, 'tracking': 31, 'inventory': 24}",134
+Security,0.68,"{'biometrics': 39, 'data breaches': 84, 'surveillance': 53}",57
+Hospitality,0.49,"{'reservations': 30, 'restaurants': 38, 'tourism': 48}",159
+Finance,0.5,"{'budgeting': 92, 'loan': 63, 'debt': 36}",66
+Aerospace,0.71,"{'engineering': 24, 'missions': 46, 'aviation': 65}",137
+Technology,0.64,"{'update': 63, 'hardware': 29, 'cybersecurity': 40}",141
+Government,0.22,"{'policy': 94, 'budget': 94, 'taxation': 49}",65
+Gaming,0.45,"{'storyline': 36, 'gameplay': 95, 'console': 91}",143
+Agriculture,0.42,"{'farming': 100, 'livestock': 37, 'irrigation': 21}",95
+Healthcare,0.51,"{'patient care': 37, 'access': 99, 'hospital': 71}",91
+Retail,0.39,"{'customer service': 30, 'promotions': 52, 'discount': 68}",44
+Hospitality,0.84,"{'service': 74, 'hotels': 50, 'reservations': 30}",68
+Government,0.02,"{'legislation': 67, 'policy': 33, 'elections': 37}",182
+Telecommunications,0.69,"{'ISP': 82, 'coverage': 81, 'data plans': 95}",120
+Technology,0.64,"{'bug': 76, 'software': 85, 'performance': 98}",120
+Technology,0.66,"{'AI': 54, 'performance': 76, 'cloud': 31}",81
+Healthcare,0.49,"{'medications': 59, 'access': 97, 'challenges': 34}",95
+Security,0.22,"{'data breaches': 44, 'surveillance': 52, 'cyberattacks': 100}",165
+Healthcare,0.3,"{'treatment': 41, 'wait times': 61, 'patient care': 79}",130
+Pharmaceuticals,0.24,"{'prescriptions': 36, 'vaccines': 80, 'healthcare': 74}",125
+Technology,0.52,"{'AI': 59, 'software': 20, 'update': 74}",149
+E-commerce,0.76,"{'inventory': 31, 'checkout': 76, 'discounts': 55}",63
+Food & Beverage,0.79,"{'ingredients': 26, 'fast food': 99, 'cuisine': 71}",146
+Aerospace,0.51,"{'fuel efficiency': 66, 'space travel': 65, 'satellites': 24}",187
+Healthcare,0.53,"{'medications': 31, 'treatment': 25, 'diagnosis': 21}",41
+Food & Beverage,0.4,"{'fast food': 76, 'cuisine': 100, 'health': 87}",78
+Entertainment,0.43,"{'box office': 62, 'music': 97, 'movies': 52}",177
+Energy,1.0,"{'nuclear': 97, 'power grid': 40, 'renewable': 85}",163
+Food & Beverage,0.3,"{'organic': 96, 'gourmet': 73, 'restaurants': 99}",33
+Agriculture,0.45,"{'weather': 35, 'soil quality': 39, 'fertilizers': 62}",39
+Pharmaceuticals,0.79,"{'prescriptions': 73, 'drug development': 27, 'vaccines': 90}",182
+Healthcare,0.79,"{'access': 96, 'treatment': 85, 'telehealth': 26}",43
+Gaming,0.57,"{'esports': 30, 'console': 63, 'gameplay': 82}",147
+E-commerce,0.64,"{'inventory': 62, 'wishlist': 67, 'customer support': 54}",77
+Food & Beverage,0.72,"{'fast food': 93, 'cuisine': 30, 'restaurants': 33}",159
+Government,0.91,"{'taxation': 57, 'security': 97, 'healthcare reform': 94}",105
+Healthcare,0.42,"{'wait times': 42, 'insurance': 91, 'patient care': 57}",101
+Retail,0.56,"{'pricing': 95, 'customer service': 62, 'loyalty programs': 40}",77
+Finance,0.62,"{'interest': 62, 'credit': 28, 'debt': 35}",51
+Food & Beverage,0.05,"{'ingredients': 26, 'health': 95, 'cuisine': 78}",148
+Pharmaceuticals,0.11,"{'vaccines': 37, 'FDA': 65, 'biotechnology': 22}",35
+Finance,0.68,"{'credit': 24, 'taxes': 68, 'budgeting': 38}",35
+Retail,0.01,"{'discount': 97, 'pricing': 77, 'stock': 90}",121
+Aerospace,0.42,"{'safety': 99, 'satellites': 75, 'engineering': 41}",58
+Gaming,0.91,"{'graphics': 39, 'mobile': 44, 'VR': 42}",72
+Gaming,0.8,"{'esports': 88, 'storyline': 44, 'PC': 38}",156
+Security,0.47,"{'encryption': 95, 'data breaches': 29, 'firewalls': 38}",94
+Automobile,0.14,"{'maintenance': 78, 'performance': 50, 'fuel efficiency': 26}",183
+Agriculture,0.27,"{'farming': 52, 'fertilizers': 94, 'crops': 66}",129
+Food & Beverage,0.23,"{'sustainability': 62, 'ingredients': 32, 'cuisine': 54}",42
+Technology,0.86,"{'design': 21, 'cybersecurity': 57, 'hardware': 70}",192
+Gaming,0.76,"{'graphics': 75, 'mobile': 67, 'esports': 100}",38
+Finance,0.86,"{'banking': 54, 'budgeting': 74, 'savings': 82}",54
+Education,0.46,"{'learning': 20, 'features': 69, 'teachers': 84}",35
+Technology,0.47,"{'AI': 70, 'hardware': 54, 'speed': 24}",92
+Agriculture,0.6,"{'irrigation': 37, 'crops': 41, 'farming': 33}",120
+Finance,0.78,"{'insurance': 39, 'credit': 24, 'debt': 86}",34
+Food & Beverage,0.21,"{'ingredients': 96, 'restaurants': 96, 'fast food': 23}",178
+Entertainment,0.23,"{'content quality': 71, 'reviews': 43, 'music': 39}",152
+Retail,0.68,"{'stock': 61, 'availability': 31, 'pricing': 87}",30
+Education,0.08,"{'platform': 87, 'usability': 31, 'exams': 67}",80
+Retail,0.91,"{'loyalty programs': 58, 'availability': 82, 'promotions': 74}",135
+Agriculture,0.51,"{'pesticides': 96, 'livestock': 81, 'fertilizers': 91}",148
+Technology,0.39,"{'performance': 57, 'AI': 38, 'bug': 46}",92
+Food & Beverage,0.32,"{'fast food': 50, 'gourmet': 26, 'health': 52}",122
+Aerospace,0.86,"{'missions': 76, 'space travel': 81, 'rockets': 44}",52
+Finance,0.87,"{'credit': 62, 'interest': 56, 'banking': 90}",76
+Finance,0.96,"{'debt': 93, 'insurance': 98, 'credit': 70}",122
+Food & Beverage,0.81,"{'ingredients': 72, 'organic': 75, 'recipes': 94}",134
+Entertainment,0.64,"{'music': 64, 'video games': 22, 'streaming': 43}",113
+Security,0.08,"{'encryption': 43, 'cyberattacks': 66, 'passwords': 26}",66
+Energy,0.76,"{'wind': 78, 'carbon footprint': 85, 'gas': 86}",164
+Aerospace,0.6,"{'missions': 31, 'safety': 93, 'space travel': 85}",164
+Food & Beverage,0.46,"{'delivery': 75, 'sustainability': 89, 'ingredients': 25}",133
+Real Estate,1.0,"{'housing market': 28, 'property tax': 89, 'mortgage': 43}",148
+Security,0.38,"{'firewalls': 77, 'biometrics': 32, 'authentication': 87}",61
+Real Estate,0.61,"{'mortgage': 90, 'rent': 85, 'housing market': 24}",74
+Real Estate,0.23,"{'property tax': 71, 'availability': 40, 'rent': 54}",149
+Automobile,0.17,"{'design': 55, 'features': 22, 'insurance': 85}",39
+Food & Beverage,0.58,"{'health': 61, 'recipes': 98, 'cuisine': 98}",109
+Energy,0.12,"{'power grid': 51, 'electricity': 60, 'carbon footprint': 98}",85
+Telecommunications,0.62,"{'ISP': 71, 'data plans': 45, 'signal': 99}",48
+Agriculture,0.81,"{'soil quality': 78, 'harvest': 66, 'sustainability': 77}",93
+Healthcare,0.68,"{'treatment': 77, 'telehealth': 67, 'access': 93}",139
+Telecommunications,0.99,"{'roaming': 97, 'infrastructure': 72, '5G': 33}",83
+Security,0.66,"{'encryption': 33, 'passwords': 92, 'biometrics': 80}",100
+Aerospace,0.59,"{'space travel': 72, 'fuel efficiency': 81, 'satellites': 73}",138
+Healthcare,0.11,"{'wait times': 25, 'insurance': 42, 'patient care': 51}",48
+Food & Beverage,0.84,"{'delivery': 79, 'ingredients': 83, 'recipes': 38}",34
+Finance,0.87,"{'budgeting': 48, 'savings': 30, 'insurance': 51}",186
+Agriculture,1.0,"{'weather': 99, 'crops': 37, 'irrigation': 73}",53
+Automobile,0.17,"{'fuel efficiency': 67, 'maintenance': 70, 'performance': 57}",112
+Entertainment,0.8,"{'content quality': 65, 'music': 62, 'box office': 80}",169
+Entertainment,0.08,"{'subscriptions': 94, 'content quality': 25, 'awards': 42}",100
+Fashion,0.05,"{'luxury': 77, 'designers': 63, 'fabric': 27}",128
+Technology,0.4,"{'bug': 38, 'performance': 25, 'update': 88}",151
+Telecommunications,0.33,"{'customer support': 72, 'ISP': 24, 'infrastructure': 51}",104
+E-commerce,0.79,"{'delivery': 61, 'discounts': 61, 'customer support': 67}",88
+Government,0.7,"{'laws': 79, 'budget': 86, 'policy': 56}",37
+Telecommunications,0.58,"{'coverage': 59, 'infrastructure': 31, 'ISP': 26}",170
+Entertainment,0.94,"{'subscriptions': 63, 'concerts': 97, 'music': 89}",33
+Fashion,0.65,"{'luxury': 30, 'runway': 97, 'seasons': 75}",142
+Retail,0.07,"{'offers': 62, 'pricing': 85, 'stock': 26}",98
+Energy,0.9,"{'carbon footprint': 89, 'electricity': 37, 'solar': 75}",92
+Entertainment,0.13,"{'concerts': 38, 'reviews': 26, 'content quality': 58}",119
+Hospitality,0.08,"{'travel': 22, 'restaurants': 98, 'budget': 36}",32
+E-commerce,0.27,"{'customer support': 27, 'checkout': 68, 'delivery': 27}",123
+Entertainment,0.25,"{'streaming': 82, 'concerts': 22, 'movies': 92}",176
+Retail,0.99,"{'returns': 54, 'loyalty programs': 92, 'discount': 31}",171
+Education,0.52,"{'platform': 77, 'learning': 84, 'students': 63}",107
+Energy,0.16,"{'gas': 40, 'solar': 51, 'nuclear': 32}",186
+Healthcare,0.13,"{'medications': 94, 'treatment': 62, 'insurance': 23}",190
+Telecommunications,0.05,"{'network': 54, 'infrastructure': 38, '5G': 34}",117
+Telecommunications,0.26,"{'customer support': 91, '5G': 37, 'network': 39}",181
+Retail,0.05,"{'returns': 92, 'pricing': 52, 'discount': 30}",73
+Real Estate,0.1,"{'amenities': 27, 'investment': 65, 'rent': 52}",70
+Real Estate,0.43,"{'pricing': 51, 'amenities': 36, 'property tax': 86}",77
+Retail,0.91,"{'availability': 50, 'loyalty programs': 84, 'pricing': 45}",106
+Aerospace,0.35,"{'missions': 30, 'engineering': 88, 'satellites': 45}",173
+Retail,0.36,"{'stock': 21, 'promotions': 57, 'discount': 59}",31
+Finance,0.81,"{'investment': 39, 'interest': 59, 'savings': 70}",186
+Energy,0.9,"{'sustainability': 96, 'power grid': 41, 'wind': 37}",50
+Pharmaceuticals,0.53,"{'prescriptions': 87, 'medications': 95, 'vaccines': 66}",71
+Automobile,0.33,"{'design': 72, 'features': 20, 'warranty': 50}",80
+Food & Beverage,0.07,"{'restaurants': 86, 'cuisine': 49, 'delivery': 69}",74
+Energy,0.6,"{'sustainability': 72, 'wind': 55, 'electricity': 66}",130
+Energy,0.1,"{'renewable': 88, 'carbon footprint': 46, 'oil': 44}",182
+Entertainment,0.76,"{'reviews': 43, 'subscriptions': 80, 'streaming': 68}",37
+Aerospace,0.22,"{'missions': 39, 'safety': 57, 'NASA': 69}",90
+Pharmaceuticals,0.07,"{'medications': 26, 'vaccines': 22, 'clinical trials': 98}",124
+Automobile,0.26,"{'insurance': 70, 'repairs': 44, 'fuel efficiency': 41}",183
+Retail,0.22,"{'customer service': 37, 'returns': 78, 'loyalty programs': 35}",191
+Aerospace,0.26,"{'fuel efficiency': 45, 'safety': 98, 'missions': 58}",149
+Aerospace,0.99,"{'fuel efficiency': 75, 'space travel': 55, 'missions': 91}",132
+Fashion,0.19,"{'brands': 93, 'luxury': 46, 'streetwear': 59}",79
+Healthcare,0.56,"{'insurance': 74, 'wait times': 60, 'medications': 66}",118
+Entertainment,0.68,"{'subscriptions': 93, 'concerts': 29, 'streaming': 41}",97
+Real Estate,0.72,"{'property tax': 62, 'pricing': 20, 'mortgage': 32}",163
+Pharmaceuticals,0.94,"{'side effects': 39, 'medications': 49, 'prescriptions': 44}",39
+Fashion,0.01,"{'fabric': 23, 'runway': 40, 'brands': 63}",70
+Education,0.24,"{'usability': 62, 'students': 64, 'assessment': 96}",200
+Hospitality,0.43,"{'reservations': 77, 'tourism': 51, 'reviews': 25}",64
+Aerospace,0.39,"{'safety': 39, 'missions': 48, 'NASA': 55}",111
+E-commerce,0.84,"{'inventory': 89, 'discounts': 58, 'refund': 67}",85
+Government,0.94,"{'legislation': 30, 'budget': 92, 'taxation': 36}",162
+Education,0.86,"{'platform': 86, 'assessment': 49, 'usability': 84}",123
+Energy,0.45,"{'renewable': 56, 'wind': 80, 'carbon footprint': 51}",179
+Agriculture,0.89,"{'sustainability': 50, 'pesticides': 20, 'fertilizers': 79}",158
+Security,0.73,"{'encryption': 100, 'data breaches': 44, 'biometrics': 100}",122
+Automobile,0.51,"{'safety': 26, 'mileage': 89, 'design': 96}",116
+Hospitality,0.75,"{'customer experience': 77, 'hotels': 42, 'service': 34}",111
+Pharmaceuticals,0.73,"{'clinical trials': 30, 'side effects': 87, 'research': 65}",162
+Telecommunications,0.21,"{'roaming': 37, '5G': 100, 'coverage': 20}",174
+Aerospace,0.89,"{'missions': 58, 'defense': 52, 'engineering': 55}",95
+Finance,0.61,"{'insurance': 39, 'taxes': 48, 'debt': 82}",193
+Government,0.29,"{'taxation': 91, 'policy': 34, 'elections': 59}",39
+Real Estate,0.74,"{'investment': 35, 'amenities': 54, 'availability': 28}",139
+Automobile,0.29,"{'safety': 30, 'maintenance': 30, 'warranty': 91}",170
+Telecommunications,0.5,"{'roaming': 78, 'coverage': 75, 'ISP': 46}",109
+Gaming,0.76,"{'console': 63, 'VR': 76, 'multiplayer': 82}",115
+Government,0.12,"{'policy': 28, 'legislation': 39, 'healthcare reform': 33}",165
+Retail,0.18,"{'promotions': 70, 'pricing': 21, 'returns': 27}",180
+E-commerce,0.93,"{'wishlist': 22, 'tracking': 52, 'inventory': 63}",137
+Government,0.85,"{'budget': 95, 'taxation': 99, 'public services': 41}",30
+Education,0.78,"{'interface': 35, 'usability': 87, 'curriculum': 38}",35
+Security,0.19,"{'encryption': 78, 'data breaches': 28, 'firewalls': 69}",119
+Healthcare,0.66,"{'insurance': 21, 'access': 33, 'diagnosis': 69}",108
+Government,0.26,"{'elections': 35, 'taxation': 51, 'legislation': 41}",118
+Real Estate,0.16,"{'location': 96, 'availability': 59, 'housing market': 57}",156
+E-commerce,0.02,"{'customer support': 70, 'refund': 65, 'wishlist': 48}",35
+Security,0.72,"{'malware': 97, 'authentication': 90, 'data breaches': 45}",120
+Agriculture,0.67,"{'weather': 88, 'fertilizers': 37, 'irrigation': 61}",177
+Government,0.13,"{'security': 84, 'elections': 28, 'regulations': 22}",58
+Food & Beverage,0.19,"{'health': 46, 'organic': 47, 'restaurants': 57}",193
+Telecommunications,0.95,"{'customer support': 28, 'infrastructure': 89, 'data plans': 94}",45
+Agriculture,0.67,"{'irrigation': 43, 'crops': 96, 'fertilizers': 94}",150
+Government,0.53,"{'taxation': 30, 'elections': 31, 'policy': 50}",86
+Healthcare,0.82,"{'diagnosis': 88, 'hospital': 20, 'insurance': 42}",76
+Automobile,0.22,"{'mileage': 77, 'maintenance': 73, 'features': 98}",186
+Education,0.06,"{'assessment': 100, 'teachers': 93, 'features': 41}",142
+Government,0.61,"{'elections': 20, 'budget': 69, 'taxation': 35}",150
+Food & Beverage,0.75,"{'delivery': 37, 'cuisine': 71, 'health': 63}",132
+Technology,0.66,"{'design': 38, 'software': 86, 'cloud': 27}",147
+E-commerce,0.29,"{'tracking': 41, 'refund': 65, 'discounts': 59}",106
+Security,0.89,"{'data breaches': 23, 'encryption': 24, 'malware': 74}",188
+Entertainment,0.89,"{'subscriptions': 58, 'content quality': 48, 'movies': 40}",182
+Finance,0.08,"{'investment': 100, 'savings': 73, 'interest': 33}",192
+Entertainment,0.04,"{'content quality': 62, 'music': 79, 'streaming': 63}",74
+Entertainment,0.48,"{'reviews': 66, 'awards': 51, 'concerts': 90}",189
+Security,0.98,"{'authentication': 52, 'firewalls': 58, 'encryption': 97}",61
+Hospitality,0.01,"{'tourism': 23, 'travel': 23, 'customer experience': 98}",192
+Gaming,0.11,"{'VR': 51, 'esports': 99, 'mobile': 75}",172
+Gaming,0.21,"{'multiplayer': 66, 'esports': 91, 'storyline': 79}",109
+E-commerce,0.18,"{'checkout': 32, 'refund': 94, 'delivery': 56}",37
+Telecommunications,0.82,"{'5G': 41, 'billing': 55, 'data plans': 89}",141
+Pharmaceuticals,0.97,"{'clinical trials': 28, 'research': 25, 'healthcare': 42}",153
+Finance,0.65,"{'debt': 55, 'investment': 33, 'taxes': 57}",178
+Energy,0.43,"{'solar': 39, 'wind': 56, 'oil': 34}",76
+E-commerce,0.15,"{'tracking': 97, 'inventory': 53, 'delivery': 28}",43
+Pharmaceuticals,0.0,"{'prescriptions': 42, 'drug development': 97, 'research': 23}",118
+Food & Beverage,0.68,"{'recipes': 94, 'delivery': 65, 'cuisine': 66}",51
+Telecommunications,0.34,"{'signal': 56, 'coverage': 39, '5G': 88}",169
+Automobile,0.53,"{'warranty': 51, 'features': 76, 'insurance': 25}",174
+Healthcare,0.8,"{'insurance': 91, 'medications': 36, 'access': 86}",64
+Finance,0.03,"{'taxes': 65, 'interest': 91, 'credit': 85}",165
+Entertainment,0.79,"{'movies': 31, 'content quality': 30, 'awards': 84}",60
+Pharmaceuticals,0.4,"{'side effects': 50, 'healthcare': 49, 'medications': 52}",78
+Automobile,0.25,"{'design': 91, 'performance': 34, 'mileage': 55}",39
+Real Estate,0.77,"{'availability': 85, 'mortgage': 67, 'housing market': 36}",191
+Aerospace,0.22,"{'fuel efficiency': 38, 'satellites': 95, 'missions': 71}",105
+Food & Beverage,0.47,"{'recipes': 61, 'organic': 20, 'restaurants': 61}",148
+Healthcare,0.51,"{'wait times': 98, 'diagnosis': 27, 'medications': 24}",139
+E-commerce,0.29,"{'refund': 68, 'pricing': 26, 'delivery': 92}",115
+Fashion,0.43,"{'trends': 55, 'retail': 74, 'luxury': 40}",125
+Government,0.32,"{'laws': 58, 'regulations': 72, 'legislation': 57}",142
+Security,0.16,"{'malware': 66, 'firewalls': 41, 'cyberattacks': 41}",178
+Healthcare,0.25,"{'wait times': 75, 'access': 96, 'medications': 41}",111
+Automobile,0.74,"{'warranty': 73, 'insurance': 83, 'maintenance': 59}",45
+Retail,0.2,"{'loyalty programs': 50, 'customer service': 62, 'sales': 26}",199
+Entertainment,0.15,"{'box office': 47, 'streaming': 49, 'concerts': 87}",66
+Real Estate,0.65,"{'pricing': 84, 'construction': 46, 'investment': 24}",72
+Security,0.02,"{'passwords': 90, 'malware': 68, 'firewalls': 99}",53
+Automobile,0.97,"{'fuel efficiency': 41, 'design': 22, 'maintenance': 25}",164
+Healthcare,0.38,"{'telehealth': 80, 'hospital': 27, 'wait times': 95}",171
+E-commerce,0.14,"{'discounts': 86, 'pricing': 44, 'refund': 70}",185
+Technology,0.92,"{'cloud': 34, 'hardware': 99, 'speed': 83}",67
+Technology,0.69,"{'AI': 52, 'cloud': 41, 'performance': 91}",67
+Security,0.76,"{'biometrics': 72, 'encryption': 81, 'firewalls': 76}",173
+Government,0.29,"{'public services': 27, 'taxation': 31, 'laws': 44}",176
+Aerospace,0.85,"{'space travel': 72, 'satellites': 32, 'missions': 60}",150
+Finance,0.27,"{'savings': 54, 'banking': 97, 'taxes': 87}",101
+Retail,0.72,"{'loyalty programs': 80, 'discount': 64, 'sales': 76}",44
+Hospitality,0.42,"{'luxury': 80, 'customer experience': 90, 'hotels': 50}",64
+Healthcare,0.39,"{'diagnosis': 83, 'patient care': 55, 'access': 58}",62
+Hospitality,0.23,"{'travel': 94, 'customer experience': 53, 'hotels': 48}",74
+Security,0.85,"{'authentication': 20, 'firewalls': 25, 'cyberattacks': 82}",119
+Education,0.2,"{'platform': 32, 'learning': 37, 'exams': 78}",164
+Food & Beverage,0.76,"{'ingredients': 49, 'organic': 58, 'fast food': 41}",56
+Finance,0.3,"{'investment': 52, 'loan': 65, 'savings': 38}",53
+Aerospace,0.23,"{'missions': 43, 'aviation': 43, 'safety': 48}",179
+Retail,0.0,"{'loyalty programs': 45, 'returns': 94, 'pricing': 74}",73
+Automobile,0.98,"{'features': 46, 'fuel efficiency': 68, 'warranty': 89}",193
+Real Estate,0.86,"{'investment': 66, 'construction': 86, 'availability': 24}",77
+Food & Beverage,0.49,"{'sustainability': 65, 'gourmet': 40, 'recipes': 97}",151
+Finance,0.1,"{'banking': 94, 'taxes': 81, 'loan': 33}",130
+Fashion,0.8,"{'trends': 37, 'runway': 63, 'fabric': 21}",111
+Agriculture,0.27,"{'sustainability': 91, 'fertilizers': 65, 'pesticides': 58}",167
+Automobile,0.25,"{'warranty': 90, 'features': 34, 'performance': 41}",187
+E-commerce,0.23,"{'service': 68, 'refund': 71, 'inventory': 38}",62
+Retail,0.56,"{'customer service': 93, 'offers': 84, 'discount': 78}",65
+Hospitality,0.37,"{'reviews': 97, 'restaurants': 70, 'service': 61}",101
+Government,0.16,"{'public services': 61, 'budget': 45, 'healthcare reform': 27}",184
+Food & Beverage,0.67,"{'organic': 47, 'health': 98, 'ingredients': 95}",102
+Food & Beverage,0.51,"{'organic': 20, 'gourmet': 85, 'fast food': 57}",151
+Education,0.71,"{'learning': 96, 'assessment': 40, 'features': 72}",45
+Energy,0.74,"{'power grid': 79, 'electricity': 85, 'renewable': 38}",77
+Government,0.82,"{'legislation': 84, 'policy': 99, 'laws': 52}",164
+Pharmaceuticals,0.72,"{'prescriptions': 41, 'biotechnology': 45, 'FDA': 53}",72
+E-commerce,0.05,"{'inventory': 57, 'delivery': 95, 'customer support': 49}",132
+Food & Beverage,0.43,"{'recipes': 53, 'sustainability': 89, 'ingredients': 96}",98
+E-commerce,0.15,"{'refund': 65, 'wishlist': 55, 'pricing': 82}",102
+Education,0.66,"{'learning': 25, 'exams': 61, 'features': 53}",58
+Telecommunications,0.21,"{'roaming': 95, 'infrastructure': 90, 'customer support': 50}",37
+Finance,0.77,"{'banking': 50, 'loan': 91, 'budgeting': 29}",114
+Technology,0.36,"{'update': 45, 'performance': 50, 'bug': 85}",108
+Government,0.56,"{'taxation': 95, 'public services': 67, 'security': 41}",138
+Fashion,0.07,"{'brands': 67, 'retail': 37, 'designers': 59}",67
+Energy,0.48,"{'solar': 49, 'electricity': 81, 'wind': 59}",69
+Government,0.65,"{'budget': 82, 'public services': 75, 'regulations': 28}",50
+Real Estate,0.13,"{'construction': 23, 'availability': 65, 'investment': 24}",169
+Food & Beverage,0.49,"{'delivery': 49, 'fast food': 51, 'recipes': 25}",106
+Gaming,0.47,"{'console': 97, 'esports': 93, 'PC': 42}",47
+Real Estate,0.12,"{'construction': 36, 'amenities': 70, 'rent': 98}",86
+Agriculture,0.55,"{'irrigation': 21, 'harvest': 24, 'crops': 43}",50
+Security,0.11,"{'authentication': 61, 'malware': 45, 'biometrics': 64}",185
+Food & Beverage,0.63,"{'health': 78, 'fast food': 49, 'recipes': 28}",41
+Agriculture,0.58,"{'crops': 20, 'soil quality': 92, 'livestock': 95}",159
+Real Estate,0.14,"{'construction': 50, 'mortgage': 74, 'property tax': 33}",83
+Education,0.44,"{'students': 25, 'interface': 70, 'teachers': 54}",43
+Entertainment,0.19,"{'box office': 24, 'concerts': 35, 'subscriptions': 47}",41
+Technology,0.44,"{'update': 38, 'AI': 51, 'design': 31}",44
+Retail,0.54,"{'promotions': 58, 'customer service': 28, 'availability': 52}",85
+Telecommunications,0.39,"{'infrastructure': 53, 'network': 77, 'billing': 78}",62
+Pharmaceuticals,0.59,"{'prescriptions': 61, 'drug development': 97, 'research': 68}",57
+Energy,0.47,"{'solar': 30, 'gas': 52, 'power grid': 81}",85
+Gaming,0.32,"{'updates': 62, 'console': 68, 'storyline': 90}",41
+Healthcare,0.84,"{'challenges': 30, 'patient care': 83, 'insurance': 72}",161
+Hospitality,0.45,"{'service': 75, 'hotels': 82, 'luxury': 79}",154
+Real Estate,0.44,"{'property tax': 34, 'rent': 60, 'construction': 33}",38
+Pharmaceuticals,0.29,"{'biotechnology': 99, 'FDA': 65, 'medications': 39}",47
+Technology,0.03,"{'cloud': 37, 'AI': 92, 'cybersecurity': 73}",133
+Gaming,0.64,"{'mobile': 90, 'updates': 22, 'storyline': 36}",136
+Government,0.87,"{'security': 32, 'regulations': 22, 'policy': 35}",114
+Automobile,0.94,"{'fuel efficiency': 54, 'insurance': 54, 'repairs': 42}",78
+Retail,0.67,"{'discount': 79, 'returns': 22, 'pricing': 96}",155
+Real Estate,0.77,"{'investment': 89, 'location': 27, 'amenities': 44}",77
+Pharmaceuticals,0.06,"{'healthcare': 38, 'research': 50, 'side effects': 80}",173
+Education,0.24,"{'exams': 84, 'curriculum': 97, 'teachers': 55}",122
+Education,0.14,"{'assessment': 70, 'features': 38, 'learning': 38}",136
+Education,0.44,"{'platform': 49, 'assessment': 89, 'usability': 92}",134
+Finance,0.4,"{'budgeting': 72, 'credit': 40, 'debt': 35}",36
+Entertainment,0.85,"{'movies': 76, 'video games': 41, 'music': 31}",134
+Aerospace,0.76,"{'satellites': 44, 'missions': 83, 'rockets': 66}",124
+Agriculture,0.25,"{'pesticides': 61, 'crops': 68, 'soil quality': 27}",160
+Retail,0.77,"{'loyalty programs': 87, 'stock': 68, 'discount': 56}",159
+Finance,0.75,"{'savings': 86, 'taxes': 30, 'debt': 99}",115
+E-commerce,0.99,"{'checkout': 91, 'customer support': 64, 'inventory': 21}",156
+Real Estate,0.74,"{'amenities': 87, 'availability': 79, 'pricing': 37}",181
+Energy,0.12,"{'electricity': 42, 'gas': 34, 'wind': 98}",120
+Retail,0.85,"{'customer service': 66, 'pricing': 57, 'offers': 95}",138
+Energy,0.48,"{'carbon footprint': 78, 'solar': 38, 'oil': 39}",41
+Real Estate,0.2,"{'rent': 43, 'amenities': 28, 'construction': 48}",196
+Agriculture,0.13,"{'harvest': 100, 'sustainability': 44, 'crops': 23}",85
+Entertainment,0.79,"{'awards': 41, 'concerts': 53, 'music': 96}",105
+Pharmaceuticals,0.01,"{'side effects': 81, 'prescriptions': 73, 'biotechnology': 27}",59
+Government,0.93,"{'healthcare reform': 42, 'security': 49, 'elections': 75}",57
+Healthcare,0.67,"{'access': 70, 'medications': 73, 'insurance': 28}",155
+Hospitality,0.77,"{'reviews': 91, 'tourism': 96, 'luxury': 64}",131
+Automobile,0.8,"{'repairs': 93, 'performance': 84, 'mileage': 89}",146
+Agriculture,0.89,"{'sustainability': 69, 'soil quality': 33, 'pesticides': 98}",85
+Healthcare,0.79,"{'telehealth': 97, 'access': 29, 'patient care': 46}",176
+Pharmaceuticals,0.74,"{'FDA': 25, 'prescriptions': 24, 'research': 53}",100
+Healthcare,0.27,"{'patient care': 38, 'treatment': 65, 'access': 50}",104
+Retail,0.07,"{'loyalty programs': 32, 'offers': 45, 'customer service': 85}",168
+Pharmaceuticals,0.33,"{'vaccines': 44, 'healthcare': 51, 'drug development': 94}",47
+Government,0.46,"{'elections': 85, 'taxation': 65, 'policy': 70}",50
+Education,0.55,"{'exams': 57, 'usability': 73, 'interface': 78}",145
+Technology,0.82,"{'update': 67, 'cybersecurity': 23, 'software': 56}",189
+Entertainment,0.01,"{'box office': 92, 'awards': 43, 'music': 89}",165
+Hospitality,0.52,"{'luxury': 52, 'service': 52, 'travel': 38}",101
+Food & Beverage,0.61,"{'fast food': 39, 'sustainability': 73, 'ingredients': 67}",183
+Telecommunications,0.8,"{'infrastructure': 95, 'customer support': 90, 'network': 48}",119
+Government,0.84,"{'taxation': 72, 'budget': 38, 'public services': 78}",130
+Food & Beverage,0.95,"{'ingredients': 75, 'health': 88, 'restaurants': 39}",45
+Finance,0.61,"{'loan': 73, 'budgeting': 62, 'credit': 63}",51
+Security,0.65,"{'encryption': 53, 'hacking': 48, 'malware': 74}",73
+Energy,0.94,"{'renewable': 52, 'power grid': 38, 'solar': 41}",142
+Food & Beverage,1.0,"{'fast food': 55, 'delivery': 60, 'restaurants': 96}",193
+Security,0.13,"{'data breaches': 62, 'hacking': 63, 'malware': 37}",48
+Agriculture,0.85,"{'fertilizers': 32, 'harvest': 29, 'weather': 57}",98
+Technology,0.56,"{'speed': 68, 'cybersecurity': 80, 'performance': 91}",56
+Healthcare,0.91,"{'patient care': 39, 'telehealth': 75, 'medications': 76}",150
+Fashion,0.14,"{'luxury': 49, 'streetwear': 98, 'accessories': 87}",45
+Energy,0.03,"{'gas': 70, 'solar': 32, 'nuclear': 75}",79
+Security,0.28,"{'hacking': 72, 'data breaches': 22, 'cyberattacks': 60}",117
+Telecommunications,0.4,"{'signal': 78, 'infrastructure': 38, 'ISP': 67}",176
+Retail,0.55,"{'promotions': 46, 'offers': 73, 'discount': 100}",94
+Automobile,0.81,"{'features': 52, 'fuel efficiency': 84, 'safety': 28}",37
+Entertainment,0.9,"{'subscriptions': 37, 'music': 92, 'box office': 87}",41
+E-commerce,0.21,"{'service': 87, 'wishlist': 47, 'discounts': 36}",138
+Agriculture,0.81,"{'crops': 55, 'pesticides': 40, 'harvest': 61}",106
+Food & Beverage,0.36,"{'fast food': 43, 'ingredients': 86, 'delivery': 54}",200
+Real Estate,0.96,"{'investment': 70, 'mortgage': 88, 'pricing': 20}",92
+Fashion,0.89,"{'streetwear': 51, 'runway': 38, 'brands': 79}",50
+Government,0.23,"{'public services': 34, 'taxation': 95, 'laws': 25}",57
+Aerospace,0.74,"{'fuel efficiency': 37, 'safety': 87, 'NASA': 87}",67
+Telecommunications,0.47,"{'infrastructure': 52, '5G': 85, 'ISP': 45}",58
+Gaming,0.24,"{'console': 25, 'updates': 74, 'PC': 43}",106
+Automobile,0.47,"{'maintenance': 65, 'design': 36, 'features': 25}",86
+E-commerce,0.95,"{'refund': 51, 'delivery': 84, 'tracking': 90}",62
+Finance,0.92,"{'insurance': 99, 'interest': 58, 'debt': 54}",125
+Aerospace,0.42,"{'satellites': 21, 'missions': 24, 'engineering': 59}",139
+Finance,0.79,"{'interest': 41, 'debt': 74, 'credit': 48}",98
+Hospitality,0.12,"{'tourism': 25, 'hotels': 80, 'budget': 93}",194
+Energy,0.33,"{'nuclear': 65, 'solar': 98, 'power grid': 80}",178
