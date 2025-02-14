@@ -1,0 +1,14 @@
+from llama_cpp import Llama
+
+# Load the GGUF model
+model = Llama(model_path="your_model.gguf")
+
+# Sample test input
+test_input = "How does AI impact education?"
+
+# Generate output using the model
+output = model(test_input)
+
+# Print model response
+print("Model Output:", output)
+
